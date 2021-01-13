@@ -1,0 +1,114 @@
+{% extends "store/base.html" %}
+{% block content %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+{% load humanize %}
+{% load static %}
+{% load filter_my %}
+<div class="row">
+    <div class="col">
+
+      <div class="card mb-4">
+        <h3 class="card-header">{{ item_name }}</h3>
+        <div class="card-body">
+          <h5 class="card-title">Item statistic</h5>
+          <h6 class="card-subtitle text-muted">for all time period</h6>
+        </div>
+          <div class="media">
+
+            <div class="row">
+              <div class="col-sm-5">
+                <canvas id="ChartMin" width="10" height="10"></canvas>
+                <div style="display:none;">
+                  <img id="source" src="{% static 'store/gold.png' %}">
+                </div>
+              </div>
+              <div class="col-sm-5">
+                <canvas id="ChartMax" width="10" height="10"></canvas>
+              </div>
+              <div class="col-sm-2">
+                <img class="ml-3" src="{% static 'store/market.png' %}" alt="Generic placeholder image">
+              </div>
+            </div>
+          </div>
+        <div class="card-body">
+          <div class="row">
+            <table class="table table-hover">
+              <thead>
+                <tr>
+                  <th scope="col">Item name</th>
+                  <th scope="col">Description</th>
+                  <th scope="col">Total price</th>
+                  <th scope="col">Vendor name</th>
+                  <th scope="col">Vendor point name</th>
+                  <th scope="col">X</th>
+                  <th scope="col">Y</th>
+                  <th scope="col">Z</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for r in context %}
+                <tr class="table-active">
+                  <th scope="row"><a href="{% url 'item_statistic' %}?item_name={{ r.item_name }}">{{ r.item_name }}</a></th>
+                  <td>{{ r.item_description }}</td>
+                  <td>{{ r.item_total_price }}</td>
+            <td scope="row"><a href="{% url 'vendor_productes' %}?x={{ r.vendor.vendor_x }}&y={{ r.vendor.vendor_y }}&z={{ r.vendor.vendor_z }}">{{r.vendor.vendor_name }}</a></td>
+                  <td>{{ r.vendor.vendor_point_name }}</td>
+                  <td>{{ r.vendor.vendor_x }}</td>
+                  <td>{{ r.vendor.vendor_y }}</td>
+                  <td>{{ r.vendor.vendor_z }}</td>
+                </tr>
+              </tbody>
+              {% endfor %}
+            </table> 
+          </div>  
+        </div>
+        <div class="card-footer text-muted">        
+        </div>
+      </div>
+
+
+    </div>
+</div>
+
+<script>
+    var image = document.getElementById('source');
+    var color = Chart.helpers.color;
+    function createConfig(dt,lbl) {
+      return {
+        type: 'line',
+        data: {
+          labels: [{% for s in statistic %}"{{ s.date.date |date:"F d, Y"  }}",{% endfor %}],
+          datasets: [{
+            label: lbl,
+            data: dt,
+            borderColor: 'rgba(0, 188, 140, 1)',
+            borderWidth: 2,
+            pointStyle: [{% for s in statistic %}image,{% endfor %}],
+            radius: 8
+          }],
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+  }};
+
+    window.onload = function() {
+      [{
+        id: 'ChartMin',
+        config: createConfig([{% for s in statistic %}{{ s.min_price }},{% endfor %}], 'Minimal price')
+      },
+      {
+        id: 'ChartMax',
+        config: createConfig([{% for s in statistic %}{{ s.max_price }},{% endfor %}], 'Maximum price')
+      }].forEach(function(details) {
+        var ctx = document.getElementById(details.id).getContext('2d');
+        new Chart(ctx, details.config);
+      });
+    };
+  </script>{% endblock content %}

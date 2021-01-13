@@ -1,0 +1,59 @@
+{% extends "store/base.html" %}
+{% block content %}
+{% load humanize %}
+{% load static %}
+{% load filter_my %}
+<div class="row">
+    <div class="col">
+      <div class="card mb-4">
+        <h3 class="card-header">{{ vendor.vendor_name }}</h3>
+        <div class="card-body">
+          <div class="row">
+            <div class="col">
+              <h5 class="card-title">{{ vendor.vendor_point_name }}</h5>
+              <h6 class="card-subtitle text-muted">Vendor items</h6>
+            </div>
+            <div class="col col-lg-2">
+              <button type="button" data-clipboard-target="#bar" style="float: right;" class="btn btn-info">WTS</button>
+            </div>
+        </div>
+          <div class="media">
+            <div class="media-body">
+            </div>
+            <img class="ml-3" src="{% static 'store/backpack.png' %}" alt="Generic placeholder image">
+          </div>
+        <div class="card-body">
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th scope="col">Item name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Total price</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for i in items %}
+          <tr class="table-active">
+            <th scope="row"><a href="{% url 'item_statistic' %}?item_name={{ i.item_name }}">{{ i.item_name }}</a></th>
+            <td>{{ i.item_description }}</td>
+            <td>{{ i.item_total_price }}</td>
+          </tr>
+        </tbody>
+        {% endfor %}
+      </table> 
+        </div>
+        <!--
+        <div class="card-body">
+          <a href="#" class="card-link">Card link</a>
+          <a href="#" class="card-link">Another link</a>
+        </div>
+        -->
+        <div class="card-footer text-muted">        
+        </div>
+      </div>
+
+
+    </div>
+</div>
+
+{% endblock content %}

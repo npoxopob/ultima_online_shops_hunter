@@ -1,0 +1,239 @@
+Loading /opt/ultima_online_shops_hunter/mapping.csv...
+Loading /opt/ultima_online_shops_hunter/result.csv...
+Trying to update mapping and categories...
+Update successfully
+Writing prices and other history
+Deleting last results
+Trying to update vendors and products...
+Creating new Vendor shop: PLATEMAIL ARMOR X:1677 Y:3145
+Creating new Vendor shop: LEATHER ARMOR SETS X:1677 Y:3147
+Creating new Vendor shop: RING/CHAINMAIL ARMOR X:1677 Y:3146
+Creating new Vendor shop: METAL WEPS/PREV.COIN X:1678 Y:3151
+Creating new Vendor shop: ID Wands & Misc. X:1677 Y:3148
+Creating new Vendor shop: MC WOODEN WEAPONS X:1680 Y:3151
+Creating new Vendor shop: 120 ALCH SCRIBE MISC X:1684 Y:3166
+Creating new Vendor shop: HUGE RESTOCK!! 11/12 X:1682 Y:3166
+Creating new Vendor shop: Cheap Stuff X:1683 Y:3170
+Mapping does not exist item_name:durable invulnerability heater shield item_description:(dark salmon hue 2174) item_id:7031  item_hue:2174
+Mapping does not exist item_name:pulma cloth sandals item_description:(hue 2085) item_id:5901  item_hue:2085
+Creating new Vendor shop: Kita X:1683 Y:3171
+Creating new Vendor shop: BULK INGOT + Armor! X:1686 Y:3170
+Mapping does not exist item_name:exceptional shadowhide leather cap item_description:[mastercrafted by Telzar Quillan] item_id:7610  item_hue:2406
+Creating new Vendor shop: DELECTABLE FOOD BUFF X:1685 Y:3170
+Creating new Vendor shop: Ingots Store X:1683 Y:3169
+Creating new Vendor shop: PREVALIAN COINS COIN X:1687 Y:3168
+Mapping does not exist item_name:a forest mushroom item_description:(very common plant) item_id:39351  item_hue:0
+Creating new Vendor shop: LOW PRICE X:1686 Y:3168
+Creating new Vendor shop: Raziya X:1687 Y:3170
+Creating new Vendor shop: Taming, Lore, Coins! X:1690 Y:3140
+Creating new Vendor shop: GR. Kegs 3K! X:1690 Y:3141
+Creating new Vendor shop: NEW NEW NEW X:1689 Y:3170
+Creating new Vendor shop: RARE PREV COINS X:1690 Y:3168
+Creating new Vendor shop: LUXURY VENDOR X:1691 Y:3169
+Creating new Vendor shop: CHUSHKA X:1688 Y:3170
+Creating new Vendor shop: CORE PREV COINS X:1689 Y:3168
+Creating new Vendor shop: RESTOCKED 4.1.20 X:1690 Y:3170
+Creating new Vendor shop: Ross shop X:1691 Y:3170
+Creating new Vendor shop: Aspects Essence X:1696 Y:3142
+Creating new Vendor shop: Hella Sick Weaponzz X:1696 Y:3139
+Creating new Vendor shop: TMAP,EpicSS,SS,Resea X:1696 Y:3141
+Creating new Vendor shop: Aspect & SS X:1696 Y:3137
+Creating new Vendor shop: Duck Face Loot 4/4 X:1696 Y:3138
+Creating new Vendor shop: Rare Leather Armor X:1708 Y:3138
+Creating new Vendor shop: http://moongate.cc X:1682 Y:3131
+Mapping does not exist item_name:fertility serum : 4 item_description:(mount breeding item) item_id:20498  item_hue:2642
+Mapping does not exist item_name:focus rune item_description:(double click to place) item_id:39912  item_hue:2606
+Creating new Vendor shop: Good Shit,Come GetIt X:1680 Y:3130
+Creating new Vendor shop: discounted loot X:1682 Y:3130
+Creating new Vendor shop: BLESSED__CLOTHES!!! X:1683 Y:3129
+Creating new Vendor shop: Misc Stuffs X:1682 Y:3129
+Creating new Vendor shop: Amyr AVARITE X:1666 Y:3132
+Creating new Vendor shop: Amyr GOLD/AGAPITE X:1666 Y:3134
+Creating new Vendor shop: Amyr COPP/BRONZE X:1666 Y:3135
+Creating new Vendor shop: Amyr VER/VAL X:1666 Y:3133
+Creating new Vendor shop: RESTOCK SOON X:1666 Y:3137
+Creating new Vendor shop: Amyr DC/SHADOW X:1666 Y:3136
+Creating new Vendor shop: Leather / Bone Armor X:1683 Y:3128
+Creating new Vendor shop: Leather / Bone Armor X:1682 Y:3128
+Creating new Vendor shop: RARES DISTILLS ESSEN X:1680 Y:3128
+Mapping does not exist item_name:impaled rotting skull item_description:Description: not registered item_id:44796  item_hue:0
+Creating new Vendor shop: PREVALIA COINS 11k X:1680 Y:3127
+Mapping does not exist item_name:exceptional ranger's hood item_description:[blessed] item_id:21786  item_hue:319
+Creating new Vendor shop: Leather daddy X:1682 Y:3127
+Creating new Vendor shop: HUE DEEDS X:1683 Y:3127
+Creating new Vendor shop: SS Aspect Rares Clth X:1683 Y:3126
+Creating new Vendor shop: Scribe Carp Regs ETC X:1682 Y:3126
+Creating new Vendor shop: Recalls/Ropes & More X:1680 Y:3126
+Creating new Vendor shop: Empty Kegs & More X:1681 Y:3126
+Creating new Vendor shop: Rare LOOT Drops X:1664 Y:3131
+Creating new Vendor shop: Prev Coin Research X:1663 Y:3133
+Creating new Vendor shop: DEADLY POISON 3K X:1663 Y:3136
+Creating new Vendor shop: I LICKED EVERYTHING2 X:1663 Y:3164
+Creating new Vendor shop: BEST SHOP X:1662 Y:3164
+Creating new Vendor shop: Scribe/Alchemy X:1661 Y:3165
+Creating new Vendor shop: BEST SHOP X:1664 Y:3165
+Creating new Vendor shop: TRAINS TRAINS TRAINS X:1661 Y:3166
+Creating new Vendor shop: Cores n More X:1663 Y:3166
+Mapping does not exist item_name:dark denim carpet dye item_description: item_id:29036  item_hue:2801
+Creating new Vendor shop: RARE SHOP X:1664 Y:3166
+Creating new Vendor shop: Good Price !!! X:1663 Y:3167
+Creating new Vendor shop: CHEAP RARE/SALE X:1661 Y:3167
+Creating new Vendor shop: SS/Aspect X:1664 Y:3167
+Creating new Vendor shop: IronIngots/Colored X:1661 Y:3168
+Creating new Vendor shop: SS/Cores/Distillat X:1663 Y:3168
+Mapping does not exist item_name:powder blush furniture dye item_description: item_id:29025  item_hue:2808
+Creating new Vendor shop: Warensemble X:1663 Y:3169
+Creating new Vendor shop: CHEAP CHEAP CHEAP X:1661 Y:3169
+Creating new Vendor shop: SS/CORES/EXS/STUFF X:1664 Y:3169
+Creating new Vendor shop: RESEARCH MATERIALS!! X:1671 Y:3171
+Creating new Vendor shop: *CHEAPEST ON SERVER* X:1697 Y:3128
+Mapping does not exist item_name:dark peacock headwear dye item_description: item_id:3842  item_hue:2226
+Mapping does not exist item_name:ossuary headwear dye item_description: item_id:3842  item_hue:2091
+Mapping does not exist item_name:shimmer lunar headwear dye item_description: item_id:3842  item_hue:2342
+Mapping does not exist item_name:metallic juniper cloth boots item_description:(hue 2845) item_id:5899  item_hue:2845
+Mapping does not exist item_name:powder peach cloth : 10 item_description:(hue 1496) item_id:5981  item_hue:1496
+Creating new Vendor shop: Wieners Hotdog Hut X:1699 Y:3126
+Creating new Vendor shop: CLOTH SS ASPECT X:1699 Y:3128
+Mapping does not exist item_name:shadow iron tunic with belt item_description:(hue 2406) item_id:21840  item_hue:2406
+Mapping does not exist item_name:dark steel cloth item_description:(hue 2224) item_id:5981  item_hue:2224
+Mapping does not exist item_name:exceptional ranger's hood item_description:(shadow iron hue 2406) item_id:21786  item_hue:2406
+Mapping does not exist item_name:shadow iron cloth sandals item_description:(hue 2406) item_id:5901  item_hue:2406
+Mapping does not exist item_name:exceptional deer mask item_description:[blessed and crafted by Grind] item_id:5447  item_hue:0
+Mapping does not exist item_name:exceptional orc mask item_description:[blessed] item_id:5147  item_hue:0
+Creating new Vendor shop: Pinkys Leather Shop X:1700 Y:3126
+Creating new Vendor shop: Restocking X:1711 Y:3140
+Creating new Vendor shop: !The Goods! X:1719 Y:3129
+Creating new Vendor shop: SCRIBE 120 X:1721 Y:3129
+Creating new Vendor shop: CUZ YOU DONT BUY X:1723 Y:3141
+Creating new Vendor shop: GOIN OUT OF BUSINESS X:1723 Y:3142
+Creating new Vendor shop: Metallic Cherry X:1723 Y:3144
+Creating new Vendor shop: CORES & DISTILLATION X:1723 Y:3146
+Creating new Vendor shop: NEW CHEAP GOODS!!! X:1724 Y:3146
+Creating new Vendor shop: WOOD MAN X:1747 Y:3149
+Creating new Vendor shop: DEFIAC Carpenter X:1690 Y:3183
+Creating new Vendor shop: ALMOST FREE! X:1690 Y:3185
+Creating new Vendor shop: PvP and PvM Goods X:1690 Y:3186
+Creating new Vendor shop: Magic Gear/Weapons X:1690 Y:3187
+Creating new Vendor shop: DEFIAC Weapon/Shield X:1679 Y:3186
+Creating new Vendor shop: Yard Sale X:1681 Y:3188
+Creating new Vendor shop: Dungeon Loots! X:1678 Y:3186
+Creating new Vendor shop: OMG SO CHEAAAAAAAAAP X:1681 Y:3189
+Creating new Vendor shop: Aspect ss and more X:1677 Y:3188
+Creating new Vendor shop: SS, Cores, Ext, Maps X:1677 Y:3189
+Creating new Vendor shop: Stupid Cheap Goods! X:1681 Y:3190
+Creating new Vendor shop: Gatherer's Dream X:1681 Y:3191
+Creating new Vendor shop: Huba Buba X:1679 Y:3192
+Creating new Vendor shop: 120 Tailor + Aspect X:1681 Y:3192
+Creating new Vendor shop: New Vendedor X:1679 Y:3194
+Creating new Vendor shop: LOOT|ASPT|SS X:1680 Y:3194
+Creating new Vendor shop: HOT GABAGE X:1676 Y:3186
+Mapping does not exist item_name:cavernam headwear dye item_description: item_id:3842  item_hue:2338
+Creating new Vendor shop: COMMAND CORES/DISTIL X:1675 Y:3184
+Creating new Vendor shop: Camilia X:1674 Y:3184
+Creating new Vendor shop: ALL KEG 1700 X:1673 Y:3184
+Creating new Vendor shop: Res/Extract/SS/Core X:1672 Y:3184
+Mapping does not exist item_name:dyeable rug tile item_description: item_id:4249  item_hue:0
+Creating new Vendor shop: BuyThisFknValeMap X:1662 Y:3179
+Creating new Vendor shop: HD's Bargain Bazaar X:1661 Y:3196
+Creating new Vendor shop: Stocked Daily X:1659 Y:3195
+Creating new Vendor shop: Smith Weapons X:1692 Y:3183
+Creating new Vendor shop: Amyr RECALLS & MARKS X:1693 Y:3183
+Creating new Vendor shop: CHEAP PLATE ARMOR X:1696 Y:3188
+Creating new Vendor shop: 120 Tinker +ID Wands X:1696 Y:3186
+Creating new Vendor shop: CHEAP KEGS & SCRIBE X:1698 Y:3183
+Creating new Vendor shop: GHEAL KEGS X:1698 Y:3184
+Creating new Vendor shop: EMPTY KEGS! X:1698 Y:3189
+Creating new Vendor shop: CORES & RES MATS X:1700 Y:3174
+Creating new Vendor shop: SkillScrolls Delight X:1700 Y:3175
+Creating new Vendor shop: Your stuff X:1702 Y:3173
+Creating new Vendor shop: Wizards'R'Us X:1709 Y:3175
+Creating new Vendor shop: SOLD OUT X:1740 Y:3188
+Creating new Vendor shop: Magic&Farm 14/11/19 X:1760 Y:3174
+Creating new Vendor shop: Mr. Blue X:1764 Y:3181
+Creating new Vendor shop: Aspect, SS, MCD, Orb X:1764 Y:3183
+Creating new Vendor shop: Cores, SS, Maps&Kegs X:1764 Y:3185
+Creating new Vendor shop: SS / Aspect / Map X:1764 Y:3187
+Creating new Vendor shop: TMap Loot / Dungeon X:1766 Y:3187
+Creating new Vendor shop: Skill Scrolls X:1767 Y:3181
+Creating new Vendor shop: LorePages [19/12/09] X:1768 Y:3187
+Mapping does not exist item_name:backpack item_description:Description: TALES OF AEGIS KEEP -1 items in bag: 0 item_id:3701  item_hue:132
+Creating new Vendor shop: 30-03-2020 X:1770 Y:3185
+Creating new Vendor shop: Research Mats X:1770 Y:3187
+Creating new Vendor shop: Ship/Upgrades X:1772 Y:3172
+Creating new Vendor shop: Crew Members X:1773 Y:3172
+Creating new Vendor shop: Doubloons X:1774 Y:3172
+Creating new Vendor shop: OUTLANSTORE.NET PICK X:1777 Y:3172
+Creating new Vendor shop: WOODY VENDOR X:1777 Y:3173
+Creating new Vendor shop: Cores X:1800 Y:3170
+Creating new Vendor shop: Magic Wep/Arm/Book X:1800 Y:3169
+Creating new Vendor shop: Skill Scrolls X:1803 Y:3172
+Creating new Vendor shop: Cloth, Books, Ticket X:1805 Y:3172
+Creating new Vendor shop: Random Stuff X:1814 Y:3157
+Creating new Vendor shop: Extract Cores Rares X:1815 Y:3157
+Creating new Vendor shop: Dungeon Loot!3.22.20 X:1816 Y:3157
+Creating new Vendor shop: Deval X:1819 Y:3158
+Creating new Vendor shop: Rudi X:2309 Y:640
+Creating new Vendor shop: Restocked 3/30 X:2316 Y:626
+Creating new Vendor shop: Aspect, Tmaps, Rares X:2318 Y:626
+Creating new Vendor shop: BB Loot Sale!!! X:2319 Y:626
+Creating new Vendor shop: Rares,Tmaps,MagiCs. X:2317 Y:626
+Creating new Vendor shop: The MagicBootyhole X:2307 Y:629
+Creating new Vendor shop: 120 Alchemist, KEGS X:2307 Y:639
+Creating new Vendor shop: Rootin for ya, hon! X:2320 Y:625
+Creating new Vendor shop: TINKERandINGOT CHEAP X:2321 Y:625
+Creating new Vendor shop: Hella Sick Armorz X:2325 Y:625
+Creating new Vendor shop: 120 ALCHEMY, SCRIBE X:2324 Y:625
+Creating new Vendor shop: Hella Sick Weaponz X:2326 Y:625
+Creating new Vendor shop: EssenceMusicShips X:2306 Y:639
+Creating new Vendor shop: Furniture Containers X:2305 Y:631
+Creating new Vendor shop: Cores/Scrolls/Etc X:2305 Y:639
+Creating new Vendor shop: Cheap Alch/Scribe X:2327 Y:622
+Creating new Vendor shop: PREV Stocked 3/31 X:2326 Y:622
+Creating new Vendor shop: 120 Food/Carp/Tink X:2303 Y:639
+Creating new Vendor shop: ANARCHY SALES X:878 Y:1567
+Creating new Vendor shop: ID/SS/CORE/TAILORING X:878 Y:1566
+Creating new Vendor shop: TERRAN MOONGATE MAN X:879 Y:1570
+Creating new Vendor shop: SS / Taming 03.04 X:879 Y:1568
+Creating new Vendor shop: Terran SCRIBE X:878 Y:1568
+Creating new Vendor shop: Amyr TAILOR X:876 Y:1581
+Creating new Vendor shop: Amyr BULK X:876 Y:1580
+Creating new Vendor shop: Amyr TINKER X:876 Y:1582
+Creating new Vendor shop: Amyr CARPENTER X:876 Y:1578
+Creating new Vendor shop: Amyr ALCHEMIST X:876 Y:1577
+Creating new Vendor shop: Amyr SCRIBE X:876 Y:1579
+Creating new Vendor shop: YoloSwamp X:880 Y:1568
+Creating new Vendor shop: BOATING / DUBLOONS X:881 Y:1568
+Creating new Vendor shop: DISCOUNTED X:882 Y:1568
+Creating new Vendor shop: Amyr AVARITE X:880 Y:1576
+Creating new Vendor shop: Amyr VER/VAL X:880 Y:1577
+Creating new Vendor shop: Amyr GOLD/AGAPITE X:880 Y:1578
+Creating new Vendor shop: Amyr COPP/BRONZE X:880 Y:1579
+Creating new Vendor shop: Amyr DC/SHADOW X:880 Y:1580
+Creating new Vendor shop: Good Stuff Cheep X:2959 Y:575
+Creating new Vendor shop: Dulcinea X:2959 Y:579
+Creating new Vendor shop: Aspect/SS/Map/Food X:2959 Y:580
+Creating new Vendor shop: Botan X:2959 Y:578
+Creating new Vendor shop: KEGS WANDS FOOD X:2956 Y:577
+Creating new Vendor shop: Loots! Research Mats X:2956 Y:583
+Creating new Vendor shop: SKIN INGOTS PLANTS X:2956 Y:576
+Creating new Vendor shop: Aspects / SS X:2954 Y:583
+Creating new Vendor shop: Amyr EMPTY KEGS X:2966 Y:583
+Creating new Vendor shop: PREV COIN BULK INGOT X:2966 Y:590
+Creating new Vendor shop: 3/12 X:2966 Y:591
+Creating new Vendor shop: OMG AMAZING X:2966 Y:593
+Creating new Vendor shop: Liquidation Station X:2965 Y:595
+Creating new Vendor shop: CHEAP SS/Scribe/Asp X:2966 Y:592
+Creating new Vendor shop: MANKO SEAS X:2971 Y:580
+Creating new Vendor shop: GREATER HEAL X:2969 Y:578
+Creating new Vendor shop: AMYR BULK CONSUMABLE X:2971 Y:578
+Creating new Vendor shop: Just Food X:2971 Y:576
+Creating new Vendor shop: POISONING X:2969 Y:580
+Creating new Vendor shop: Hella Bulk Weaponz X:2981 Y:569
+Creating new Vendor shop: Hella Sick D-Copper X:2981 Y:570
+Creating new Vendor shop: 120 Leather ARMOR X:2982 Y:596
+Creating new Vendor shop: 120 Leather ARMOR X:2982 Y:597
+Creating new Vendor shop: Hella Sick Shadow X:2983 Y:570
+Creating new Vendor shop: ESSENCE&DUNGEON LOOT X:2983 Y:572
+Creating new Vendor shop: 120 Alchemist, KEGS X:2983 Y:584
+Creating new Vendor shop: 120 Adventurer Rope X:2983 Y:597
+Creating new Vendor shop: 120 Smith and REPAIR X:2984 Y:597

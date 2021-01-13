@@ -1,0 +1,1973 @@
+ID,ItemID,Hue,Main category,Item name
+5761428,576,1428,Aspect Phylactery,command phylactery
+5761757,576,1757,Aspect Phylactery,shadow phylactery
+5762087,576,2087,Aspect Phylactery,blood phylactery
+5762096,576,2096,Aspect Phylactery,artisan phylactery
+5762241,576,2241,Aspect Phylactery,lyric phylactery
+5762263,576,2263,Aspect Phylactery,air phylactery
+5762582,576,2582,Aspect Phylactery,void phylactery
+5762592,576,2592,Aspect Phylactery,water phylactery
+5762618,576,2618,Aspect Phylactery,eldritch phylactery
+5762635,576,2635,Aspect Phylactery,fire phylactery
+5762767,576,2767,Aspect Phylactery,earth phylactery
+5762843,576,2843,Aspect Phylactery,fortune phylactery
+5762897,576,2897,Aspect Phylactery,poison phylactery
+23232500,2323,2500,Event rares,train coal
+24220,2422,0,Craft resources,raw bacon
+24260,2426,0,Craft resources,raw fish steak
+24290,2429,0,Food,cheese
+24310,2431,0,Tinker tools,skillet
+25310,2531,0,Event rares,cooking bowl
+253822,2538,22,Event rares,violet holiday ornament
+253838,2538,38,Event rares,red holiday ornament
+2538150,2538,150,Event rares,yellow holiday ornament
+25971782,2597,1782,Rares,command aspect lantern
+25971909,2597,1909,Rares,inferno lantern
+25972338,2597,2338,Rares,cavernam lantern
+25972897,2597,2897,Rares,poison aspect lantern
+25990,2599,0,Furniture,candelabra
+26020,2602,0,Furniture,stool
+26022406,2602,2406,Furniture,stool
+26022419,2602,2419,Furniture,stool
+26370,2637,0,Furniture,armoire
+26372406,2637,2406,Furniture,armoire
+26372419,2637,2419,Furniture,armoire
+26390,2639,0,Furniture,armoire
+26392406,2639,2406,Furniture,armoire
+26392419,2639,2419,Furniture,armoire
+26470,2647,0,Misc,bedroll
+27170,2717,0,Furniture,wooden shelf
+27172406,2717,2406,Furniture,wooden shelf
+27172419,2717,2419,Furniture,wooden shelf
+28610,2861,0,Furniture,wooden bench
+28612419,2861,2419,Furniture,wooden bench
+28620,2862,0,Furniture,wooden chair
+28670,2867,0,Furniture,throne
+28672406,2867,2406,Furniture,throne
+28672419,2867,2419,Furniture,throne
+28680,2868,0,Furniture,table
+28690,2869,0,Furniture,table
+28692419,2869,2419,Furniture,table
+28900,2890,0,Furniture,writing table
+28902406,2890,2406,Furniture,writing table
+28902419,2890,2419,Furniture,writing table
+28990,2899,0,Furniture,cushioned wooden chair
+28992406,2899,2406,Furniture,cushioned wooden chair
+29030,2903,0,Furniture,chair
+29032406,2903,2406,Furniture,chair
+29032419,2903,2419,Furniture,chair
+29070,2907,0,Furniture,chair
+29100,2910,0,Furniture,foot stool
+29590,2959,0,Furniture,table
+29600,2960,0,Furniture,table
+29602419,2960,2419,Furniture,table
+31312796,3131,2796,Event rares,Embalming Reagents
+31312839,3131,2839,Event rares,Embalming Herbs
+31340,3134,0,Event rares,Embalming Reagents
+31342091,3134,2091,Event rares,Embalming Herbs
+31350,3135,0,Event rares,Embalming Reagents
+31352810,3135,2810,Event rares,Embalming Reagents
+31362797,3136,2797,Event rares,Mummifying Herbs
+31370,3137,0,Event rares,Embalming Reagents
+31372839,3137,2839,Event rares,Embalming Herbs
+31382797,3138,2797,Event rares,Embalming Herbs
+32190,3219,0,Plants,a fan grass
+32260,3226,0,Plants,a palm sapling
+32290,3229,0,Plants,a palm sapling
+32550,3255,0,Plants,a cattails
+32560,3256,0,Plants,a cattails
+33400,3340,0,Plants,a wild mushroom
+33410,3341,0,Plants,a wild mushroom
+33430,3343,0,Plants,a wild mushroom
+33440,3344,0,Plants,a wild mushroom
+33450,3345,0,Plants,a wild mushroom
+33460,3346,0,Plants,a wild mushroom
+33480,3348,0,Plants,a wild mushroom
+33660,3366,0,Plants,a cactus bush
+33670,3367,0,Plants,a cactus
+33680,3368,0,Plants,a cactus bush
+33700,3370,0,Plants,a cactus bush
+33720,3372,0,Plants,a cactus bush
+33740,3374,0,Plants,a giant cactus bush
+33760,3376,0,Plants,a century plant
+33770,3377,0,Plants,a century plant
+33910,3391,0,Plants,a dried brambles
+33920,3392,0,Plants,a dried brambles
+35200,3520,0,Tinker tools,fishing pole
+35201763,3520,1763,Tinker tools,avarwood fishing pole
+35202207,3520,2207,Tinker tools,verewood fishing pole
+35202213,3520,2213,Tinker tools,goldenwood fishing pole
+35202219,3520,2219,Tinker tools,valewood fishing pole
+35202418,3520,2418,Tinker tools,bronzewood fishing pole
+35202425,3520,2425,Tinker tools,rosewood fishing pole
+35302207,3530,2207,Tailor goods,verehide fishing net
+35302213,3530,2213,Ship items,goldenhide fishing net
+35530,3553,0,Misc,kindling
+35680,3568,0,Weapon,black staff
+35682207,3568,2207,Weapon,verewood black staff
+35700,3570,0,Magic items,wand
+35720,3572,0,Magic items,wand
+35730,3573,0,Magic items,wand
+35890,3589,0,Tailor goods,a disguise kit
+36170,3617,0,Misc,bandage
+36301967,3630,1967,Event rares,king's faire crystal ball
+36330,3633,0,Furniture,brazier
+36450,3645,0,Furniture,crate
+36452406,3645,2406,Furniture,crate
+36452419,3645,2419,Furniture,crate
+36460,3646,0,Furniture,crate
+36462915,3646,2915,Furniture,salvaged crate
+36470,3647,0,Furniture,crate
+36472406,3647,2406,Furniture,crate
+36472419,3647,2419,Furniture,crate
+36510,3651,0,Furniture,wooden chest
+36512406,3651,2406,Furniture,wooden chest
+36512418,3651,2418,Furniture,wooden chest
+36512419,3651,2419,Furniture,wooden chest
+36992492,3699,2492,Ship items,cannon shot
+37010,3701,0,Bag,backpack
+3701643,3701,643,Bag,backpack
+37020,3702,0,Bag,bag
+370241,3702,41,Bag,bag
+370247,3702,47,Bag,bag
+370248,3702,48,Bag,bag
+370249,3702,49,Bag,bag
+370253,3702,53,Bag,bag
+370274,3702,74,Bag,bag
+3702100,3702,100,Bag,bag
+3702143,3702,143,Bag,bag
+3702221,3702,221,Bag,bag
+3702253,3702,253,Bag,bag
+3702288,3702,288,Bag,bag
+3702323,3702,323,Bag,bag
+3702344,3702,344,Bag,bag
+3702350,3702,350,Bag,bag
+3702353,3702,353,Bag,bag
+3702394,3702,394,Bag,bag
+3702426,3702,426,Bag,bag
+3702442,3702,442,Bag,bag
+3702447,3702,447,Bag,bag
+3702450,3702,450,Bag,bag
+3702466,3702,466,Bag,bag
+3702536,3702,536,Bag,bag
+3702542,3702,542,Bag,bag
+3702548,3702,548,Bag,bag
+3702550,3702,550,Bag,bag
+3702602,3702,602,Bag,bag
+3702642,3702,642,Bag,bag
+3702648,3702,648,Bag,bag
+3702656,3702,656,Bag,bag
+3702748,3702,748,Bag,bag
+3702802,3702,802,Bag,bag
+3702806,3702,806,Bag,bag
+3702841,3702,841,Bag,bag
+3702902,3702,902,Bag,bag
+3702906,3702,906,Bag,bag
+3702921,3702,921,Bag,bag
+3702924,3702,924,Bag,bag
+3702946,3702,946,Bag,bag
+3702971,3702,971,Bag,bag
+3702998,3702,998,Bag,bag
+37022207,3702,2207,Bag,bag
+37022213,3702,2213,Bag,bag
+37022406,3702,2406,Bag,bag
+37022413,3702,2413,Bag,bag
+37022418,3702,2418,Bag,bag
+37022419,3702,2419,Bag,bag
+37022425,3702,2425,Bag,bag
+37050,3705,0,Bag,pouch
+37052406,3705,2406,Bag,pouch
+37052419,3705,2419,Bag,pouch
+37090,3709,0,Furniture,wooden box
+37121319,3712,1319,Furniture,lesser paragon chest
+37121419,3712,1419,Furniture,lesser paragon chest
+37121437,3712,1437,Furniture,lesser paragon chest
+37122119,3712,2119,Furniture,lesser paragon chest
+37122347,3712,2347,Furniture,lesser paragon chest
+37122395,3712,2395,Furniture,lesser paragon chest
+37122400,3712,2400,Furniture,lesser paragon chest
+37122599,3712,2599,Furniture,lesser paragon chest
+37122611,3712,2611,Furniture,lesser paragon chest
+37122622,3712,2622,Furniture,lesser paragon chest
+37122651,3712,2651,Furniture,lesser paragon chest
+37122654,3712,2654,Furniture,lesser paragon chest
+37122662,3712,2662,Furniture,lesser paragon chest
+37122896,3712,2896,Furniture,lesser paragon chest
+37122904,3712,2904,Furniture,lesser paragon chest
+37130,3713,0,Weapon,shepherd's crook
+37132406,3713,2406,Weapon,shadowwood shepherd's crook
+37132413,3713,2413,Weapon,copperwood shepherd's crook
+37132419,3713,2419,Weapon,dullwood shepherd's crook
+37180,3718,0,Tinker tools,pickaxe
+37181763,3718,1763,Tinker tools,avarite pickaxe
+37182207,3718,2207,Tinker tools,verite pickaxe
+37182213,3718,2213,Tinker tools,gold pickaxe
+37182219,3718,2219,Tinker tools,valorite pickaxe
+37182413,3718,2413,Tinker tools,copper pickaxe
+37182418,3718,2418,Tinker tools,bronze pickaxe
+37182425,3718,2425,Tinker tools,agapite pickaxe
+37190,3719,0,Weapon,pitchfork
+37191763,3719,1763,Weapon,avarite pitchfork
+37192207,3719,2207,Weapon,verite pitchfork
+37192219,3719,2219,Weapon,valorite pitchfork
+37192406,3719,2406,Weapon,shadow iron pitchfork
+37192425,3719,2425,Weapon,agapite pitchfork
+37210,3721,0,Weapon,quarter staff
+37211763,3721,1763,Weapon,avarwood quarter staff
+37212207,3721,2207,Weapon,verewood quarter staff
+37212213,3721,2213,Weapon,goldenwood quarter staff
+37212219,3721,2219,Weapon,valewood quarter staff
+37212406,3721,2406,Weapon,shadowwood quarter staff
+37212413,3721,2413,Weapon,copperwood quarter staff
+37212418,3721,2418,Weapon,bronzewood quarter staff
+37212419,3721,2419,Weapon,dullwood quarter staff
+37212425,3721,2425,Weapon,rosewood quarter staff
+37360,3736,0,Tinker tools,a fashionable mastery chain
+37370,3737,0,Tinker tools,an exquisite mastery chain
+37380,3738,0,Tinker tools,a twin loop mastery chain
+37390,3739,0,Tinker tools,mortar and pestle
+37400,3740,0,Instruments,drums
+37420,3742,0,Instruments,tambourine
+37421763,3742,1763,Instruments,avarwood tambourine
+37620,3762,0,Instruments,harp
+37630,3763,0,Instruments,lute
+37631763,3763,1763,Instruments,avarwood lute
+37632207,3763,2207,Instruments,verewood lute
+37632213,3763,2213,Instruments,goldenwood lute
+37632219,3763,2219,Instruments,valewood lute
+37632418,3763,2418,Instruments,bronzewood lute
+37632425,3763,2425,Instruments,rosewood lute
+37660,3766,0,Furniture,music stand
+37710,3771,0,Furniture,music stand
+37960,3796,0,Furniture,guildstone
+38210,3821,0,Misc,gold coin
+38270,3827,0,Craft resources,blank scroll
+38272609,3827,2609,Craft resources,an arcane scroll
+38340,3834,0,Weapon,spellbook
+38342606,3834,2606,Magic items,spellbook
+38361782,3836,1782,Aspect Extract-Distill,Command Aspect Extract
+38361788,3836,1788,Aspect Extract-Distill,Water Aspect Extract
+38361790,3836,1790,Aspect Extract-Distill,Shadow Aspect Extract
+38362087,3836,2087,Aspect Extract-Distill,Blood Aspect Extract
+38362096,3836,2096,Aspect Extract-Distill,Artisan Aspect Extract
+38362241,3836,2241,Aspect Extract-Distill,Lyric Aspect Extract
+38362263,3836,2263,Aspect Extract-Distill,Air Aspect Extract
+38362599,3836,2599,Aspect Extract-Distill,Void Aspect Extract
+38362615,3836,2615,Aspect Extract-Distill,Eldritch Aspect Extract
+38362635,3836,2635,Aspect Extract-Distill,Fire Aspect Extract
+38362767,3836,2767,Aspect Extract-Distill,Earth Aspect Extract
+38362843,3836,2843,Aspect Extract-Distill,Fortune Aspect Extract
+38362897,3836,2897,Aspect Extract-Distill,Poison Aspect Extract
+38422167,3842,2167,Fasion,metallic pewter
+38422796,3842,2796,Fasion,nusero
+38431470,3843,1470,Fasion,metallic umber
+38431939,3843,1939,Fasion,dark crimson
+38431967,3843,1967,Fasion,shimmer solstice
+38432089,3843,2089,Fasion,mount petram
+38432167,3843,2167,Fasion,metallic pewter
+38432174,3843,2174,Fasion,dark salmon
+38432342,3843,2342,Fasion,shimmer lunar
+38432801,3843,2801,Fasion,dark denim
+38432826,3843,2826,Fasion,metallic sky
+38432903,3843,2903,Fasion,powder cloud
+38432928,3843,2928,Fasion,metallic chalk
+38460,3846,0,Misc,Greater Magic Resist potion
+38470,3847,0,Misc,Greater Cure potion
+38480,3848,0,Misc,Agility potion
+38490,3849,0,Misc,Greater Strength potion
+38500,3850,0,Misc,deadly poison potion
+38510,3851,0,Misc,Refresh potion
+38520,3852,0,Misc,Greater Heal potion
+38530,3853,0,Misc,Greater Explosion potion
+38560,3856,0,Misc,emerald
+38590,3859,0,Misc,ruby
+38610,3861,0,Misc,citrine
+38730,3873,0,Misc,star sapphire
+38770,3877,0,Misc,amber
+38971763,3897,1763,Tinker tools,avarite shovel
+38972207,3897,2207,Tinker tools,verite shovel
+38972213,3897,2213,Tinker tools,gold shovel
+38972219,3897,2219,Tinker tools,valorite shovel
+38972418,3897,2418,Tinker tools,bronze shovel
+38972425,3897,2425,Tinker tools,agapite shovel
+39030,3903,0,Misc,arrow
+39080,3908,0,Tinker tools,hatchet
+39081763,3908,1763,Tinker tools,avarite hatchet
+39082207,3908,2207,Tinker tools,verite hatchet
+39082213,3908,2213,Tinker tools,gold hatchet
+39082219,3908,2219,Tinker tools,valorite hatchet
+39082406,3908,2406,Tinker tools,shadow iron hatchet
+39082418,3908,2418,Tinker tools,bronze hatchet
+39082425,3908,2425,Tinker tools,agapite hatchet
+39090,3909,0,Weapon,executioner's axe
+39092207,3909,2207,Weapon,verite executioner's axe
+39092213,3909,2213,Weapon,gold executioner's axe
+39092219,3909,2219,Weapon,valorite executioner's axe
+39092406,3909,2406,Weapon,shadow iron executioner's axe
+39092413,3909,2413,Weapon,copper executioner's axe
+39092418,3909,2418,Weapon,bronze executioner's axe
+39092419,3909,2419,Weapon,dull copper executioner's axe
+39092425,3909,2425,Weapon,agapite executioner's axe
+39110,3911,0,Weapon,battleaxe
+39130,3913,0,Weapon,axe
+39150,3915,0,Weapon,double axe
+39151763,3915,1763,Weapon,avarite double axe
+39152207,3915,2207,Weapon,verite double axe
+39152213,3915,2213,Weapon,gold double axe
+39152219,3915,2219,Weapon,valorite double axe
+39152418,3915,2418,Weapon,bronze double axe
+39152425,3915,2425,Weapon,agapite double axe
+39170,3917,0,Weapon,bardiche
+39200,3920,0,Weapon,crossbow
+39202207,3920,2207,Weapon,verewood crossbow
+39202213,3920,2213,Weapon,goldenwood crossbow
+39202219,3920,2219,Weapon,valewood crossbow
+39202406,3920,2406,Weapon,shadowwood crossbow
+39202413,3920,2413,Weapon,copperwood crossbow
+39202418,3920,2418,Weapon,bronzewood crossbow
+39202419,3920,2419,Weapon,dullwood crossbow
+39202425,3920,2425,Weapon,rosewood crossbow
+39220,3922,0,Weapon,dagger
+39320,3932,0,Weapon,mace
+39321763,3932,1763,Weapon,avarite mace
+39322207,3932,2207,Weapon,verite mace
+39322213,3932,2213,Weapon,gold mace
+39322219,3932,2219,Weapon,valorite mace
+39322406,3932,2406,Weapon,shadow iron mace
+39322413,3932,2413,Weapon,copper mace
+39322418,3932,2418,Weapon,bronze mace
+39322419,3932,2419,Weapon,dull copper mace
+39322425,3932,2425,Weapon,agapite mace
+39340,3934,0,Weapon,broadsword
+39370,3937,0,Weapon,longsword
+39371763,3937,1763,Weapon,avarite longsword
+39372207,3937,2207,Weapon,verite longsword
+39372213,3937,2213,Weapon,gold longsword
+39372219,3937,2219,Weapon,valorite longsword
+39372406,3937,2406,Weapon,shadow iron longsword
+39372418,3937,2418,Weapon,bronze longsword
+39372419,3937,2419,Weapon,dull copper longsword
+39372425,3937,2425,Weapon,agapite longsword
+39380,3938,0,Weapon,spear
+39381763,3938,1763,Weapon,avarite spear
+39382207,3938,2207,Weapon,verite spear
+39382213,3938,2213,Weapon,gold spear
+39382219,3938,2219,Weapon,valorite spear
+39382406,3938,2406,Weapon,shadow iron spear
+39382413,3938,2413,Weapon,copper spear
+39382418,3938,2418,Weapon,bronze spear
+39382419,3938,2419,Weapon,dull copper spear
+39382425,3938,2425,Weapon,agapite spear
+39410,3941,0,Misc,easel
+39620,3962,0,Misc,black pearl
+39630,3963,0,Misc,bloodmoss
+39720,3972,0,Misc,garlic
+39730,3973,0,Misc,ginseng
+39740,3974,0,Misc,mandrake root
+39760,3976,0,Misc,nightshade
+39800,3980,0,Misc,sulfurous ash
+39810,3981,0,Misc,spider's silk
+39851428,3985,1428,Aspect Core,Command Aspect Core
+39851757,3985,1757,Aspect Core,Shadow Aspect Core
+39852087,3985,2087,Aspect Core,Blood Aspect Core
+39852096,3985,2096,Aspect Core,Artisan Aspect Core
+39852241,3985,2241,Aspect Core,Lyric Aspect Core
+39852263,3985,2263,Aspect Core,Air Aspect Core
+39852582,3985,2582,Aspect Core,Void Aspect Core
+39852592,3985,2592,Aspect Core,Water Aspect Core
+39852618,3985,2618,Aspect Core,Eldritch Aspect Core
+39852635,3985,2635,Aspect Core,Fire Aspect Core
+39852767,3985,2767,Aspect Core,Earth Aspect Core
+39852843,3985,2843,Aspect Core,Fortune Aspect Core
+39852897,3985,2897,Aspect Core,Poison Aspect Core
+39970,3997,0,Tinker tools,sewing kit
+40090,4009,0,Misc,dyes
+40210,4021,0,Tinker tools,sledgehammer
+40320,4032,0,Tinker tools,scribe's pen
+40800,4080,0,Misc,Book
+40810,4081,0,Misc,Book
+40820,4082,0,Misc,Book
+41480,4148,0,Tinker tools,saw
+41710,4171,0,Furniture,clock
+42250,4225,0,Craft resources,leather
+42251763,4225,1763,Craft resources,avarhide
+42252207,4225,2207,Craft resources,verehide
+42252213,4225,2213,Craft resources,goldenhide
+42252219,4225,2219,Craft resources,valehide
+42252413,4225,2413,Craft resources,copperhide
+42252419,4225,2419,Craft resources,dullhide
+50400,5040,0,Weapon,war axe
+50401763,5040,1763,Weapon,avarite war axe
+50402207,5040,2207,Weapon,verite war axe
+50402213,5040,2213,Weapon,gold war axe
+50402219,5040,2219,Weapon,valorite war axe
+50402406,5040,2406,Weapon,shadow iron war axe
+50402413,5040,2413,Weapon,copper war axe
+50402418,5040,2418,Weapon,bronze war axe
+50402419,5040,2419,Weapon,dull copper war axe
+50402425,5040,2425,Weapon,agapite war axe
+50420,5042,0,Weapon,bow
+50421763,5042,1763,Weapon,avarwood bow
+50422207,5042,2207,Weapon,verewood bow
+50422213,5042,2213,Weapon,goldenwood bow
+50422219,5042,2219,Weapon,valewood bow
+50422406,5042,2406,Weapon,shadowwood bow
+50422413,5042,2413,Weapon,copperwood bow
+50422418,5042,2418,Weapon,bronzewood bow
+50422419,5042,2419,Weapon,dullwood bow
+50422425,5042,2425,Weapon,rosewood bow
+50440,5044,0,Weapon,club
+50441763,5044,1763,Weapon,avarwood club
+50442207,5044,2207,Weapon,verewood club
+50442213,5044,2213,Weapon,goldenwood club
+50442219,5044,2219,Weapon,valewood club
+50442406,5044,2406,Weapon,shadowwood club
+50442413,5044,2413,Weapon,copperwood club
+50442418,5044,2418,Weapon,bronzewood club
+50442419,5044,2419,Weapon,dullwood club
+50442425,5044,2425,Weapon,rosewood club
+50460,5046,0,Weapon,scimitar
+50490,5049,0,Weapon,viking sword
+50491763,5049,1763,Weapon,avarite viking sword
+50492207,5049,2207,Weapon,verite viking sword
+50492213,5049,2213,Weapon,gold viking sword
+50492219,5049,2219,Weapon,valorite viking sword
+50492406,5049,2406,Weapon,shadow iron viking sword
+50492413,5049,2413,Weapon,copper viking sword
+50492418,5049,2418,Weapon,bronze viking sword
+50492419,5049,2419,Weapon,dull copper viking sword
+50492425,5049,2425,Weapon,agapite viking sword
+50560,5056,0,Armor,chainmail coif
+50590,5059,0,Armor,chainmail leggings
+50600,5060,0,Armor,chainmail chest
+50602406,5060,2406,Armor,shadow iron chainmail chest
+50602419,5060,2419,Armor,dull copper chainmail chest
+50610,5061,0,Armor,leather arms
+50630,5063,0,Armor,leather gorget
+50632500,5063,2500,Armor,chainmail gorget
+50700,5070,0,Armor,eather gloves
+50702406,5070,2406,Armor,shadowhide leather gloves
+50740,5074,0,Armor,leather leggings
+50750,5075,0,Armor,leather chest
+50760,5076,0,Armor,studded arms
+50780,5078,0,Armor,studded gorget
+50781812,5078,1812,Armor,ringmail gorget
+50782822,5078,2822,Armor,bone gorget
+50850,5085,0,Armor,studded gloves
+50890,5089,0,Armor,studded leggings
+50900,5090,0,Armor,studded chest
+50910,5091,0,Tinker tools,smith's hammer
+51010,5101,0,Armor,ringmail chest
+51030,5103,0,Armor,ringmail arms
+51032500,5103,2500,Armor,chainmail arms
+51050,5105,0,Armor,ringmail leggings
+51060,5106,0,Armor,ringmail gloves
+51062500,5106,2500,Armor,chainmail gloves
+51120,5112,0,Weapon,gnarled staff
+51150,5115,0,Weapon,large battle axe
+51170,5117,0,Weapon,heavy crossbow
+51171763,5117,1763,Weapon,avarwood heavy crossbow
+51172207,5117,2207,Weapon,verewood heavy crossbow
+51172213,5117,2213,Weapon,goldenwood heavy crossbow
+51172219,5117,2219,Weapon,valewood heavy crossbow
+51172406,5117,2406,Weapon,shadowwood heavy crossbow
+51172413,5117,2413,Weapon,copperwood heavy crossbow
+51172418,5117,2418,Weapon,bronzewood heavy crossbow
+51172419,5117,2419,Weapon,dullwood heavy crossbow
+51172425,5117,2425,Weapon,rosewood heavy crossbow
+51190,5119,0,Weapon,katana
+51191763,5119,1763,Weapon,avarite katana
+51192207,5119,2207,Weapon,verite katana
+51192213,5119,2213,Weapon,gold katana
+51192219,5119,2219,Weapon,valorite katana
+51192406,5119,2406,Weapon,shadow iron katana
+51192413,5119,2413,Weapon,copper katana
+51192418,5119,2418,Weapon,bronze katana
+51192419,5119,2419,Weapon,dull copper katana
+51192425,5119,2425,Weapon,agapite katana
+51210,5121,0,Weapon,kryss
+51211763,5121,1763,Weapon,avarite kryss
+51212207,5121,2207,Weapon,verite kryss
+51212213,5121,2213,Weapon,gold kryss
+51212219,5121,2219,Weapon,valorite kryss
+51212406,5121,2406,Weapon,shadow iron kryss
+51212413,5121,2413,Weapon,copper kryss
+51212418,5121,2418,Weapon,bronze kryss
+51212419,5121,2419,Weapon,dull copper kryss
+51212425,5121,2425,Weapon,agapite kryss
+51230,5123,0,Weapon,short spear
+51231763,5123,1763,Weapon,avarite short spear
+51232207,5123,2207,Weapon,verite short spear
+51232213,5123,2213,Weapon,gold short spear
+51232219,5123,2219,Weapon,valorite short spear
+51232406,5123,2406,Weapon,shadow iron short spear
+51232413,5123,2413,Weapon,copper short spear
+51232418,5123,2418,Weapon,bronze short spear
+51232419,5123,2419,Weapon,dull copper short spear
+51232425,5123,2425,Weapon,agapite short spear
+51250,5125,0,Weapon,war fork
+51251763,5125,1763,Weapon,avarite war fork
+51252207,5125,2207,Weapon,verite war fork
+51252213,5125,2213,Weapon,gold war fork
+51252219,5125,2219,Weapon,valorite war fork
+51252406,5125,2406,Weapon,shadow iron war fork
+51252413,5125,2413,Weapon,copper war fork
+51252418,5125,2418,Weapon,bronze war fork
+51252419,5125,2419,Weapon,dull copper war fork
+51252425,5125,2425,Weapon,agapite war fork
+51270,5127,0,Weapon,war mace
+51271763,5127,1763,Weapon,avarite war mace
+51272207,5127,2207,Weapon,verite war mace
+51272213,5127,2213,Weapon,gold war mace
+51272219,5127,2219,Weapon,valorite war mace
+51272406,5127,2406,Weapon,shadow iron war mace
+51272413,5127,2413,Weapon,copper war mace
+51272418,5127,2418,Weapon,bronze war mace
+51272419,5127,2419,Weapon,dull copper war mace
+51272425,5127,2425,Weapon,agapite war mace
+51290,5129,0,Armor,close helm
+51311812,5131,1812,Armor,ringmail helm
+51320,5132,0,Armor,bascinet
+51350,5135,0,Armor,norse helm
+51380,5138,0,Armor,platemail helm
+51382413,5138,2413,Armor,copper platemail helm
+51390,5139,0,Armor,platemail gorget
+51422406,5142,2406,Armor,shadow iron platemail chest
+51422419,5142,2419,Armor,dull copper platemail chest
+51430,5143,0,Armor,platemail arms
+51440,5144,0,Armor,platemail gloves
+51460,5146,0,Armor,platemail leggings
+51770,5177,0,Weapon,war hammer
+51771763,5177,1763,Weapon,avarite war hammer
+51772207,5177,2207,Weapon,verite war hammer
+51772213,5177,2213,Weapon,gold war hammer
+51772219,5177,2219,Weapon,valorite war hammer
+51772406,5177,2406,Weapon,shadow iron war hammer
+51772413,5177,2413,Weapon,copper war hammer
+51772418,5177,2418,Weapon,bronze war hammer
+51772419,5177,2419,Weapon,dull copper war hammer
+51772425,5177,2425,Weapon,agapite war hammer
+51790,5179,0,Weapon,maul
+51791763,5179,1763,Weapon,avarite maul
+51792207,5179,2207,Weapon,verite maul
+51792213,5179,2213,Weapon,gold maul
+51792219,5179,2219,Weapon,valorite maul
+51792406,5179,2406,Weapon,shadow iron maul
+51792418,5179,2418,Weapon,bronze maul
+51792419,5179,2419,Weapon,dull copper maul
+51792425,5179,2425,Weapon,agapite maul
+51810,5181,0,Weapon,hammer pick
+51820,5182,0,Weapon,halberd
+51821763,5182,1763,Weapon,avarite halberd
+51822207,5182,2207,Weapon,verite halberd
+51822213,5182,2213,Weapon,gold halberd
+51822219,5182,2219,Weapon,valorite halberd
+51822406,5182,2406,Weapon,shadow iron halberd
+51822413,5182,2413,Weapon,copper halberd
+51822418,5182,2418,Weapon,bronze halberd
+51822419,5182,2419,Weapon,dull copper halberd
+51822425,5182,2425,Weapon,agapite halberd
+51850,5185,0,Weapon,cutlass
+51870,5187,0,Weapon,two-handed axe
+51882825,5188,2825,Ship items,a large ship bomb
+52040,5204,0,Armor,bone chest
+52050,5205,0,Armor,bone gloves
+53560,5356,0,Maps,Tmap
+53562091,5356,2091,Maps,Tmap T8
+53562651,5356,2651,Maps,skinning map
+53562796,5356,2796,Maps,ore map
+53562799,5356,2799,Maps,lumber map
+53562904,5356,2904,Maps,fishing map
+53562955,5356,2955,Maps,blank map
+53592262,5359,2262,Fasion,air aspect random spell hue deed
+53600,5360,0,Rares,deed
+53602414,5360,2414,Ship items,doubloons
+53602897,5360,2897,Misc,creature upgrades reset deed
+53620,5362,0,Ship items,ship upgrade
+53630,5363,0,Ship items,ship
+53650,5365,0,Tinker tools,spyglass
+53651763,5365,1763,Tinker tools,avarite spyglass
+53652207,5365,2207,Tinker tools,verite spyglass
+53652213,5365,2213,Tinker tools,gold spyglass
+53652219,5365,2219,Tinker tools,valorite spyglass
+53652413,5365,2413,Tinker tools,copper spyglass
+53652418,5365,2418,Tinker tools,bronze spyglass
+53652425,5365,2425,Tinker tools,agapite spyglass
+53700,5370,0,Ship items,leather boarding rope
+53702799,5370,2799,Tailor goods,adventurer's rope
+53730,5373,0,Tinker tools,iron lockpicks
+53731763,5373,1763,Tinker tools,avarite lockpicks
+53732207,5373,2207,Tinker tools,verite lockpicks
+53732213,5373,2213,Tinker tools,gold lockpicks
+53732219,5373,2219,Tinker tools,valorite lockpicks
+53732418,5373,2418,Tinker tools,bronze lockpicks
+53732425,5373,2425,Tinker tools,agapite lockpicks
+53981788,5398,1788,Fasion,water aspect skirt
+53982635,5398,2635,Fasion,fire aspect skirt
+53982897,5398,2897,Fasion,poison aspect skirt
+54352635,5435,2635,Fasion,fire aspect half apron
+54410,5441,0,Event rares,Tangled Gronchbox Ribbon
+58992089,5899,2089,Fasion,mount petram cloth boots
+58992167,5899,2167,Fasion,metallic pewter cloth boots
+58992398,5899,2398,Fasion,metallic olive cloth boots
+58992653,5899,2653,Fasion,metallic lemon-lime cloth boots
+58992796,5899,2796,Fasion,nusero cloth boots
+59012796,5901,2796,Fasion,nusero cloth sandals
+59031465,5903,1465,Fasion,dark blood cloth shoes
+59032089,5903,2089,Fasion,mount petram cloth shoes
+59032398,5903,2398,Fasion,metallic olive cloth shoes
+59032796,5903,2796,Fasion,nusero cloth shoes
+59052828,5905,2828,Fasion,metallic pickle cloth thigh boots
+5909230,5909,230,Fasion, verehide restyled leather cap
+59121788,5912,1788,Fasion,armored magical wizard's hat
+59121909,5912,1909,Fasion,inferno wizard's hat
+59122897,5912,2897,Fasion, armored magical wizard's hat
+59810,5981,0,Fasion,rare cloth
+59811156,5981,1156,Fasion,dark blueberry cloth
+59811467,5981,1467,Fasion,dark coffee cloth
+59811470,5981,1470,Fasion,metallic umber cloth
+59811484,5981,1484,Fasion,metallic cerulean cloth
+59811494,5981,1494,Fasion,powder pistachio cloth
+59811779,5981,1779,Fasion,aegis keep cloth
+59811782,5981,1782,Fasion,command aspect cloth
+59811788,5981,1788,Fasion,water aspect cloth
+59811790,5981,1790,Fasion,shadow aspect cloth
+59811939,5981,1939,Fasion,dark crimson cloth
+59811956,5981,1956,Fasion,shimmer dahlia cloth
+59811995,5981,1995,Fasion,metallic wine cloth
+59812001,5981,2001,Fasion,oil cloth
+59812085,5981,2085,Fasion,pulma cloth
+59812089,5981,2089,Fasion,mount petram cloth
+59812091,5981,2091,Fasion,ossuary cloth
+59812092,5981,2092,Fasion,mausoleum cloth
+59812096,5981,2096,Fasion,artisan aspect cloth
+59812099,5981,2099,Fasion,darkmire temple cloth
+59812167,5981,2167,Fasion,metallic pewter cloth
+59812174,5981,2174,Fasion,dark salmon cloth
+59812226,5981,2226,Fasion,dark peacock cloth
+59812227,5981,2227,Fasion,powder ruby cloth
+59812246,5981,2246,Fasion,powder seafoam cloth
+59812263,5981,2263,Fasion,air aspect cloth
+59812379,5981,2379,Fasion,metallic sapphire cloth
+59812398,5981,2398,Fasion,metallic olive cloth
+59812719,5981,2719,Fasion,chaos cloth
+59812765,5981,2765,Fasion,tradesman union cloth
+59812796,5981,2796,Fasion,nusero cloth
+59812801,5981,2801,Fasion,dark denim cloth
+59812804,5981,2804,Fasion,dark forest cloth
+59812807,5981,2807,Fasion,dark rust cloth
+59812817,5981,2817,Fasion,monster hunter cloth
+59812826,5981,2826,Fasion,metallic sky cloth
+59812827,5981,2827,Fasion,metallic mint cloth
+59812843,5981,2843,Fasion,fortune aspect cloth
+59812845,5981,2845,Fasion,metallic juniper cloth
+59812898,5981,2898,Fasion,metallic eggplant cloth
+59812906,5981,2906,Fasion,seafarer league cloth
+59812915,5981,2915,Fasion,order of armorers cloth
+59812916,5981,2916,Fasion,shimmer valentine cloth
+59812928,5981,2928,Fasion,metallic chalk cloth
+59812944,5981,2944,Fasion,freedom cloth
+59900,5990,0,Fasion,cloth
+61930,6193,0,Misc,fungicide
+62350,6235,0,Aspect Extract-Distill,aspect distillation kit
+62630,6263,0,Tinker tools,silver trap wire
+63652091,6365,2091,Event rares,Mummifying Reagents
+63652810,6365,2810,Event rares,Embalming Reagents
+63802797,6380,2797,Event rares,Embalming Reagents
+646437,6464,37,Potions,a potion keg: total refresh
+646444,6464,44,Potions,a potion keg: greater cure
+646493,6464,93,Potions,a potion keg: agility
+6464253,6464,253,Potions,a potion keg: greater heal
+6464363,6464,363,Potions,a potion keg: deadly poison
+6464419,6464,419,Potions,a potion keg: greater explosion
+6464956,6464,956,Potions,a potion keg: greater strength
+64641109,6464,1109,Potions,a potion keg: greater magic resistance
+70260,7026,0,Armor,bronze shield
+70270,7027,0,Armor,buckler
+70290,7029,0,Armor,metal kite shield
+70310,7031,0,Armor,heater shield
+70311763,7031,1763,Armor,avarite heater shield
+70312207,7031,2207,Armor,verite heater shield
+70312213,7031,2213,Armor,gold heater shield
+70312219,7031,2219,Armor,valorite heater shield
+70312406,7031,2406,Armor,shadow iron heater shield
+70312413,7031,2413,Armor,copper heater shield
+70312418,7031,2418,Armor,bronze heater shield
+70312419,7031,2419,Armor,dull copper heater shield
+70312425,7031,2425,Armor,agapite heater shield
+70330,7033,0,Armor,wooden kite shield
+70332207,7033,2207,Armor,verewood wooden kite shield
+70332213,7033,2213,Armor,goldenwood wooden kite shield
+70332219,7033,2219,Armor,valewood wooden kite shield
+70332418,7033,2418,Armor,bronzewood wooden kite shield
+70332425,7033,2425,Armor,rosewood wooden kite shield
+70340,7034,0,Armor,wooden shield
+70350,7035,0,Armor,metal shield
+71070,7107,0,Armor,chaos shield
+71071763,7107,1763,Armor,avarite chaos shield
+71072174,7107,2174,Armor,avarite chaos shield
+71072207,7107,2207,Armor,verite chaos shield
+71072213,7107,2213,Armor,gold chaos shield
+71072219,7107,2219,Armor,valorite chaos shield
+71072406,7107,2406,Armor,shadow iron chaos shield
+71072413,7107,2413,Armor,copper chaos shield
+71072418,7107,2418,Armor,bronze chaos shield
+71072419,7107,2419,Armor,dull copper chaos shield
+71072425,7107,2425,Armor,agapite chaos shield
+71090,7109,0,Armor,order shield
+71091763,7109,1763,Armor,avarite order shield
+71092207,7109,2207,Armor,verite order shield
+71092213,7109,2213,Armor,gold order shield
+71092219,7109,2219,Armor,valorite order shield
+71092406,7109,2406,Armor,shadow iron order shield
+71092413,7109,2413,Armor,copper order shield
+71092418,7109,2418,Armor,bronze order shield
+71092419,7109,2419,Armor,dull copper order shield
+71092425,7109,2425,Armor,agapite order shield
+71272213,7127,2213,Craft resources,goldenwood board
+71272425,7127,2425,Craft resources,rosewood board
+71511763,7151,1763,Craft resources,avarite ingot
+71512207,7151,2207,Craft resources,verite ingot
+71512213,7151,2213,Craft resources,gold ingot
+71512219,7151,2219,Craft resources,valorite ingot
+71512406,7151,2406,Craft resources,shadow iron ingot
+71512413,7151,2413,Craft resources,copper ingot
+71512418,7151,2418,Craft resources,bronze ingot
+71512425,7151,2425,Craft resources,agapite ingot
+71540,7154,0,Craft resources,iron ingot
+71541763,7154,1763,Craft resources,avarite ingot
+71542207,7154,2207,Craft resources,verite ingot
+71542213,7154,2213,Craft resources,gold ingot
+71542219,7154,2219,Craft resources,valorite ingot
+71542406,7154,2406,Craft resources,shadow iron ingot
+71542413,7154,2413,Craft resources,copper ingot
+71542418,7154,2418,Craft resources,bronze ingot
+71542419,7154,2419,Craft resources,dull copper ingot
+71542425,7154,2425,Craft resources,agapite ingot
+71630,7163,0,Misc,bolt
+71690,7169,0,Armor,leather shorts
+71750,7175,0,Armor,leather chest
+71770,7177,0,Armor,leather skirt
+71771507,7177,1507,Armor,studded skirt
+71771812,7177,1812,Armor,ringmail skirt
+71772265,7177,2265,Armor,chainmail skirt
+71772874,7177,2874,Armor,platemail skirt
+71772875,7177,2875,Armor,bone skirt
+71790,7179,0,Armor,leather bustier
+71810,7181,0,Armor,studded bustier
+71872713,7187,2713,Rares,inscription crafting manual
+71872826,7187,2826,Rares,tailoring crafting manual
+71872912,7187,2912,Rares,tinkering crafting manual
+71872913,7187,2913,Rares,carpentry crafting manual
+75830,7583,0,Misc,torso
+75840,7584,0,Misc,head
+76100,7610,0,Armor,leather cap
+76101763,7610,1763,Armor,avarhide leather cap
+76102207,7610,2207,Armor,verehide leather cap
+77080,7708,0,Craft resources,raw fish fillet
+77102543,7710,2543,Craft resources,raw fish
+78152839,7815,2839,Event rares,roast bird
+78640,7864,0,Tinker tools,tinker's tools
+78662901,7866,2901,Misc,tailoring repair kit
+78662990,7866,2990,Misc,carpentry repair kit
+78852163,7885,2163,Misc,spirit spell stone
+79560,7956,0,Misc,marked rune
+80120,8012,0,Magic scrolls,recall scroll
+80170,8017,0,Magic scrolls,mind blast scroll
+80250,8025,0,Magic scrolls,mark scroll
+80290,8029,0,Magic scrolls,chain lightning scroll
+80310,8031,0,Magic scrolls,flamestrike scroll
+80320,8032,0,Magic scrolls,gate travel scroll
+80330,8033,0,Magic scrolls,mana vampire scroll
+80340,8034,0,Magic scrolls,mass dispel scroll
+80350,8035,0,Magic scrolls,meteor swarm scroll
+80360,8036,0,Magic scrolls,polymorph scroll
+80370,8037,0,Magic scrolls,earthquake scroll
+80380,8038,0,Magic scrolls,energy vortex scroll
+80390,8039,0,Magic scrolls,resurrection scroll
+80410,8041,0,Magic scrolls,summon daemon scroll
+80420,8042,0,Magic scrolls,summon air elemental scroll
+80430,8043,0,Magic scrolls,summon fire elemental scroll
+80440,8044,0,Magic scrolls,summon water elemental scroll
+80971788,8097,1788,Fasion,water aspect tunic
+80972897,8097,2897,Fasion,poison aspect tunic
+81891788,8189,1788,Fasion,water aspect surcoat
+81892635,8189,2635,Fasion,fire aspect surcoat
+81892897,8189,2897,Fasion,poison aspect surcoat
+84540,8454,0,Ship items,crewmember contract
+84550,8455,0,Ship items,crewmember contract
+88262291,8826,2291,Skill scrolls,skill scroll
+88262479,8826,2479,Skill scrolls,skill scroll
+88262564,8826,2564,Skill scrolls,skill scroll
+88262642,8826,2642,Skill scrolls,skill scroll
+88262722,8826,2722,Skill scrolls,skill scroll
+88262735,8826,2735,Skill scrolls,skill scroll
+88262768,8826,2768,Skill scrolls,skill scroll
+88262900,8826,2900,Skill scrolls,epic skill mastery scroll
+89010,8901,0,Inscription goods,runebook
+99170,9917,0,Weapon,harpoon
+99172213,9917,2213,Weapon,gold harpoon
+102450,10245,0,Instruments,bamboo flute
+102452213,10245,2213,Instruments,goldenwood bamboo flute
+115520,11552,0,Tinker tools,skinning knife
+115521763,11552,1763,Tinker tools,avarite skinning knife
+115522207,11552,2207,Tinker tools,verite skinning knife
+115522213,11552,2213,Tinker tools,gold skinning knife
+115522219,11552,2219,Tinker tools,valorite skinning knife
+115522418,11552,2418,Tinker tools,bronze skinning knife
+115522425,11552,2425,Tinker tools,agapite skinning knife
+123200,12320,0,Plants,a winterthorn
+126772425,12677,2425,Rares,cavernam map fragment
+126862609,12686,2609,Rares,arcane essence
+132920,13292,0,Plants,a dried brambles
+132980,13298,0,Plants,a buttercup
+133050,13305,0,Plants,a bellflower
+133070,13307,0,Plants,a snowdrops
+133100,13310,0,Plants,a daffodil
+133110,13311,0,Plants,a begonia
+133130,13313,0,Plants,a giant buttercup
+133160,13316,0,Plants,a buttercup
+133210,13321,0,Plants,a snowdrops
+133350,13335,0,Plants,a begonia
+133360,13336,0,Plants,a begonia
+144562875,14456,2875,Plants,a witchwood sapling
+145942842,14594,2842,Plants,a marshwood sapling
+168982843,16898,2843,Rares,prevalia coins
+170870,17087,0,Rares,mastercrafting diagram
+171570,17157,0,Misc,a juvenile swordfish
+176062606,17606,2606,Misc,a royal basslet
+176172814,17617,2814,Craft resources,raw crab
+176192820,17619,2820,Craft resources,raw lobster
+176861782,17686,1782,Aspect Extract-Distill,Command Aspect Distillation
+176861788,17686,1788,Aspect Extract-Distill,Water Aspect Distillation
+176861790,17686,1790,Aspect Extract-Distill,Shadow Aspect Distillation
+176862087,17686,2087,Aspect Extract-Distill,Blood Aspect Distillation
+176862096,17686,2096,Aspect Extract-Distill,Artisan Aspect Distillation
+176862241,17686,2241,Aspect Extract-Distill,Lyric Aspect Distillation
+176862263,17686,2263,Aspect Extract-Distill,Air Aspect Distillation
+176862599,17686,2599,Aspect Extract-Distill,Void Aspect Distillation
+176862615,17686,2615,Aspect Extract-Distill,Eldritch Aspect Distillation
+176862635,17686,2635,Aspect Extract-Distill,Fire Aspect Distillation
+176862767,17686,2767,Aspect Extract-Distill,Earth Aspect Distillation
+176862843,17686,2843,Aspect Extract-Distill,Fortune Aspect Distillation
+176862897,17686,2897,Aspect Extract-Distill,Poison Aspect Distillation
+191990,19199,0,Rares,an ankh token
+192280,19228,0,Misc,arrow commodity
+192320,19232,0,Craft resources,bottle commodity
+192330,19233,0,Craft resources,feather commodity
+192340,19234,0,Craft resources,leather commodity
+192352207,19235,2207,Craft resources,verehide commodity
+192352219,19235,2219,Craft resources,valehide commodity
+192352406,19235,2406,Craft resources,shadowhide commodity
+192352413,19235,2413,Craft resources,copperhide commodity
+192352418,19235,2418,Craft resources,bronzehide commodity
+192352419,19235,2419,Craft resources,dullhide commodity
+192352425,19235,2425,Craft resources,rosehide commodity
+192360,19236,0,Craft resources,iron ingot commodity
+192390,19239,0,Craft resources,board commodity
+192430,19243,0,Craft resources,raw fish steak commodity
+192450,19245,0,Craft resources,raw ribs commodity
+192460,19246,0,Craft resources,bloodmoss commodity
+192470,19247,0,Craft resources,black pearl commodity
+192480,19248,0,Craft resources,garlic commodity
+192490,19249,0,Craft resources,ginseng commodity
+192500,19250,0,Craft resources,mandrake root commodity
+192510,19251,0,Craft resources,nightshade commodity
+192520,19252,0,Craft resources,sulfurous ash commodity
+192530,19253,0,Craft resources,spiders silk commodity
+192540,19254,0,Craft resources,blank scroll commodity
+195060,19506,0,Event rares,gourd pile
+195120,19512,0,Plants,a cattails
+195130,19513,0,Plants,a cattails
+203770,20377,0,Plants,a giant dried brambles
+203840,20384,0,Plants,a giant flowering cactus
+203910,20391,0,Plants,a massive cactus bush
+204660,20466,0,Plants,a tall cactus
+204670,20467,0,Plants,a tall cactus
+204952213,20495,2213,Tinker tools,goldenwood container identification wand
+204952418,20495,2418,Tinker tools,bronzewood container identification wand
+204952419,20495,2419,Tinker tools,dullwood container identification wand
+204952425,20495,2425,Tinker tools,rosewood container identification wand
+204960,20496,0,Tinker tools,item identification wand
+204962213,20496,2213,Tinker tools,goldenwood item identification wand
+204962419,20496,2419,Tinker tools,dullwood item identification wand
+204962425,20496,2425,Tinker tools,rosewood item identification wand
+204962843,20496,2843,Event rares,one year anniversary 10/27/2019 fireworks wand
+204982897,20498,2897,Event rares,distilled holiday spirit
+204990,20499,0,Plants,superior growth serum
+213980,21398,0,Plants,a snowgrass
+217861476,21786,1476,Fasion,ranger's hood
+217870,21787,0,Fasion,cowled hood
+218090,21809,0,Fasion,fur skin boots
+218312092,21831,2092,Fasion,mausoleum ruffled dress
+2185296,21852,96,Fasion,ruffled blouse
+218630,21863,0,Fasion,slim trousers
+219500,21950,0,Fasion,pleated skirt
+219531967,21953,1967,Fasion,shimmer solstice evening gloves
+2232663,22326,63,Plants,uncommon seed
+223261266,22326,1266,Plants,rare seed
+223262401,22326,2401,Plants,extremely common seed
+223262451,22326,2451,Plants, common seed
+223262661,22326,2661,Plants,very rare seed
+223262882,22326,2882,Plants,very common seed
+223362966,22336,2966,Rares,a skill mastery orb
+254910,25491,0,Event rares,pumpkin patch
+255190,25519,0,Event rares,jellybeans
+257500,25750,0,Tailor goods,veterinary supplies
+266710,26671,0,Plants,a underbrush
+266720,26672,0,Plants,a underbrush
+267240,26724,0,Plants,a giant cattails
+267340,26734,0,Plants,a massive lashvine
+275640,27564,0,Plants,a wallflower
+276112443,27611,2443,Rares,Collectable card
+276112740,27611,2740,Rares,Collectable card
+276112797,27611,2797,Rares,Collectable card
+276112845,27611,2845,Rares,Collectable card
+276112915,27611,2915,Rares,Collectable card
+288200,28820,0,Misc,a swordfish
+288230,28823,0,Misc,a sawfish
+288250,28825,0,Misc,a white shark
+288790,28879,0,Food,lobster feast
+288800,28880,0,Food,ham feast
+288810,28881,0,Food,steak feast
+288832913,28883,2913,Food,crab feast
+288850,28885,0,Food,fish feast
+288880,28888,0,Food,meat shank feast
+288892839,28889,2839,Event rares,harvest ham tray
+290010,29001,0,Tinker tools,iron trap tool
+290011763,29001,1763,Tinker tools,exceptional avarite trap tool
+290012207,29001,2207,Tinker tools,exceptional verite trap tool
+290012213,29001,2213,Tinker tools,exceptional gold trap tool
+290012219,29001,2219,Tinker tools,exceptional valorite trap tool
+290012418,29001,2418,Tinker tools,exceptional bronze trap tool
+290012425,29001,2425,Tinker tools,exceptional agapite trap tool
+290251496,29025,1496,Fasion,powder peach furniture dye
+290252089,29025,2089,Fasion,mount petram furniture dye
+290252928,29025,2928,Fasion,metallic chalk furniture dye
+290302141,29030,2141,Misc,plant chemicals
+290472845,29047,2845,Event rares,piece of hard candy
+290770,29077,0,Rares,metal treasure map chest
+290860,29086,0,Rares,wooden treasure map chest
+291030,29103,0,Inscription goods,a rune tome
+291042618,29104,2618,Rares,an aspect item tome
+291042963,29104,2963,Rares,a skill mastery tome
+291052897,29105,2897,Inscription goods,a lore book
+293430,29343,0,Misc,farmer's almanac
+293480,29348,0,Rares,research materials
+293820,29382,0,Misc,bolt commodity
+297732414,29773,2414,Food,sausage feast
+297732839,29773,2839,Event rares,harvest stew tray
+297742414,29774,2414,Food,bacon feast
+298332622,29833,2622,Furniture,greater paragon chest (writhing tentacle)
+298682213,29868,2213,Tinker tools,gold planter's spade
+298682219,29868,2219,Tinker tools,valorite planter's spade
+298682418,29868,2418,Tinker tools,bronze planter's spade
+298682425,29868,2425,Tinker tools,agapite planter's spade
+393530,39353,0,Plants,a forest mushroom
+395170,39517,0,Tailor goods,a leather cap restyle kit
+395172913,39517,2913,Tailor goods,a clothing alteration kit
+398561757,39856,1757,Aspect Weapons,shadow aspect arrow bundle
+398562592,39856,2592,Aspect Weapons,water aspect arrow bundle
+398912606,39891,2606,Misc,empowerment rune
+398922117,39892,2117,Misc,aggression rune
+398962247,39896,2247,Misc,healing rune
+398972377,39897,2377,Misc,fury rune
+398982897,39898,2897,Misc,immunity rune
+399052384,39905,2384,Misc,poison warding rune
+399112384,39911,2384,Misc,toxicity rune
+399162606,39916,2606,Misc,spellshielding rune
+399172376,39917,2376,Misc,chemistry rune
+399182377,39918,2377,Misc,fortification rune
+414712096,41471,2096,Inscription goods,a tome of heroism (blessed)
+425162669,42516,2669,Inscription goods,research guide
+425190,42519,0,Rares,aspect kit
+425202091,42520,2091,Event rares,a forgery kit
+425210,42521,0,Misc,siege tools
+425302875,42530,2875,Event rares,king's faire silver trophy
+426922801,42692,2801,Event rares,lollipop
+426922826,42692,2826,Event rares,lollipop
+426922877,42692,2877,Event rares,lollipop
+426940,42694,0,Event rares,wafers
+432062750,43206,2750,Chain,a bronze mastery chain link
+432062875,43206,2875,Chain,a silver mastery chain link
+434230,43423,0,Event rares,an empty soul jar
+452592261,45259,2261,Event rares,king's faire ticket
+452592903,45259,2903,Event rares,winterlands ticket
+452852096,45285,2096,Aspect Weapons,artisan aspect weapon oil
+452852241,45285,2241,Aspect Weapons,lyric aspect weapon oil
+452852263,45285,2263,Aspect Weapons,air aspect weapon oil
+452852582,45285,2582,Aspect Weapons,void aspect weapon oil
+452852635,45285,2635,Aspect Weapons,fire aspect weapon oil
+452852767,45285,2767,Aspect Weapons,earth aspect weapon oil
+452852843,45285,2843,Aspect Weapons,fortune aspect weapon oil
+452852897,45285,2897,Aspect Weapons,poison aspect weapon oil
+453150,45315,0,Ship items,pirate booty
+456242227,45624,2227,Event rares,juggling balls
+461332498,46133,2498,Event rares,snowballs
+463082875,46308,2875,Inscription goods,wax book seal stamp
+471540,47154,0,Inscription goods,antiquity manifest
+471570,47157,0,Event rares,preserved ossuary artifact
+471590,47159,0,Event rares,preserved ossuary artifact
+471610,47161,0,Event rares,preserved ossuary artifact
+471670,47167,0,Event rares,preserved ossuary artifact
+471680,47168,0,Event rares,preserved ossuary artifact
+471710,47171,0,Event rares,preserved ossuary artifact
+471830,47183,0,Event rares,preserved ossuary artifact
+471850,47185,0,Event rares,preserved ossuary artifact
+482611428,48261,1428,Aspect Weapons,command aspect spell foci
+482612241,48261,2241,Aspect Weapons,lyric aspect spell foci
+482612263,48261,2263,Aspect Weapons,air aspect spell foci
+482612582,48261,2582,Aspect Weapons,void aspect spell foci
+482612592,48261,2592,Aspect Weapons,water aspect spell foci
+482612618,48261,2618,Aspect Weapons,eldritch aspect spell foci
+482612843,48261,2843,Aspect Weapons,fortune aspect spell foci
+482612897,48261,2897,Aspect Weapons,poison aspect spell foci
+483052908,48305,2908,Event rares,cavernam snow globe
+483281967,48328,1967,Event rares,a train engine
+483301557,48330,1557,Event rares,a train engine
+483301788,48330,1788,Event rares,a train engine
+483302096,48330,2096,Event rares,a train engine
+483302241,48330,2241,Event rares,a train engine
+483302246,48330,2246,Event rares,a train engine
+483302342,48330,2342,Event rares,a train engine
+483302615,48330,2615,Event rares,a train engine
+483302897,48330,2897,Event rares,a train engine
+483311175,48331,1175,Event rares,a train engine
+483321462,48332,1462,Event rares,outlands train car
+483321476,48332,1476,Event rares,outlands train car
+483321496,48332,1496,Event rares,outlands train car
+483322599,48332,2599,Event rares,outlands train car
+483322796,48332,2796,Event rares,outlands train car
+483381494,48338,1494,Event rares,passenger train car
+483381967,48338,1967,Event rares,passenger train car
+483382843,48338,2843,Event rares,passenger train car
+483401557,48340,1557,Event rares,flatbed train car
+483412342,48341,2342,Event rares,flatbed train car
+483421494,48342,1494,Event rares,ore train car
+483422092,48342,2092,Event rares,ore train car
+483441957,48344,1957,Event rares,oil train car
+483442085,48344,2085,Event rares,oil train car
+483480,48348,0,Event rares,train track
+483500,48350,0,Event rares,train track
+483510,48351,0,Event rares,train track
+483520,48352,0,Event rares,train track
+483530,48353,0,Event rares,train track
+218092346,21809,2346,Fasion,shimmer paradox fur skin boots
+218262635,21826,2635,Fasion,fire aspect long overcoat
+21940202,21940,202,Fasion,exceptional tiara
+3701902,3701,902,Bag,backpack
+53592766,5359,2766,Fasion,earth aspect random spell hue deed
+53592105,5359,2105,Fasion,shadow aspect random spell hue deed
+53592614,5359,2614,Fasion,eldritch aspect random spell hue deed
+53592598,5359,2598,Fasion,void aspect random spell hue deed
+53592896,5359,2896,Fasion,poison aspect random spell hue deed
+53592914,5359,2914,Fasion,artisan aspect random spell hue deed
+59012826,5901,2826,Fasion,metallic sky cloth sandals
+24721764,2472,1764,Furniture,lesser paragon chest
+24740,2474,0,Furniture,wooden box
+24730,2473,0,Furniture,small crate
+39472796,3947,2796,Event rares,roasting torch
+41652796,4165,2796,Event rares,poultry seasoning
+59811571,5981,1571,Fasion,shimmer garnet cloth
+38382796,3838,2796,Fasion,nusero runebook dye
+290780,29078,0,Rares,metal treasure map chest
+3702612,3702,612,Bag,bag
+53591787,5359,1787,Fasion,water aspect random spell hue deed
+398601757,39860,1757,Aspect Weapons,shadow aspect bolt bundle
+398602263,39860,2263,Aspect Weapons,air aspect bolt bundle
+482612635,48261,2635,Aspect Weapons,fire aspect spell foci
+370251,3702,51,Bag,bag
+3702543,3702,543,Bag,bag
+3702803,3702,803,Bag,bag
+3702549,3702,549,Bag,bag
+64640,6464,0,Craft resources,a potion keg
+205020,20502,0,Misc,superior purified water solution
+456242801,45624,2801,Event rares,juggling balls
+7937237,7937,237,Fasion,plain dress
+50742406,5074,2406,Armor,exceptional shadowhide leather leggings
+50752418,5075,2418,Armor,exceptional bronzehide leather chest
+50612418,5061,2418,Armor,exceptional bronzehide leather arms
+52012213,5201,2213,Armor,exceptional goldenhide bone helm
+51062213,5106,2213,Armor,exceptional gold chainmail gloves
+38421995,3842,1995,Fasion,metallic wine headwear dye
+38432380,3843,2380,Fasion,metallic cherry shield dye
+36512413,3651,2413,Furniture,wooden chest
+471640,47164,0,Event rares,preserved ossuary artifact
+3702364,3702,364,Bag,bag
+53592337,5359,2337,Fasion,a random spell hue deed
+38540,3854,0,Craft resources,bottle
+3702129,3702,129,Bag,bag
+38382091,3838,2091,Fasion,ossuary runebook dye
+59051156,5905,1156,Fasion,dark blueberry cloth thigh boots
+31330,3133,0,Event rares,Embalming Reagents
+79562261,7956,2261,Rares,omni rune
+29103802,29103,802,Inscription goods,a rune tome
+890137,8901,37,Inscription goods,runebook
+890167,8901,67,Inscription goods,runebook
+8901802,8901,802,Inscription goods,runebook
+24732406,2473,2406,Furniture,small crate
+76102213,7610,2213,Armor,exceptional goldenhide leather cap
+3702796,3702,796,Bag,bag
+38382346,3838,2346,Fasion,shimmer paradox runebook dye
+21790902,21790,902,Fasion,exceptional kabuki mask
+53592634,5359,2634,Fasion,fire aspect random spell hue deed
+24742219,2474,2219,Furniture,wooden box
+36512213,3651,2213,Furniture,wooden chest
+99171763,9917,1763,Weapon,exceptional avarite harpoon
+24732419,2473,2419,Furniture,small crate
+28692406,2869,2406,Furniture,table
+28612406,2861,2406,Furniture,wooden bench
+192272419,19227,2419,Craft resources,dullwood commodity
+192272413,19227,2413,Craft resources,copperwood commodity
+192272418,19227,2418,Craft resources,bronzewood commodity
+37122603,3712,2603,Furniture,lesser paragon chest (shadow minion)
+290870,29087,0,Furniture,wooden treasure map chest
+42312185,4231,2185,Fasion,exceptional emerald earrings
+36512425,3651,2425,Furniture,wooden chest
+29602406,2960,2406,Furniture,table
+257580,25758,0,Ship items,ship repair kit
+59811909,5981,1909,Fasion,inferno cloth
+59811967,5981,1967,Fasion,shimmer solstice cloth
+289100,28910,0,Plants,a snakevine hedge
+214050,21405,0,Plants,a snowy hedge
+275650,27565,0,Plants,a wallflower
+33110,3311,0,Plants,a housevine
+33100,3310,0,Plants,a serpentvine
+33050,3305,0,Plants,a ash sapling
+32720,3272,0,Plants,a juniper sapling
+195210,19521,0,Plants,a gladiolus
+133180,13318,0,Plants,a giant mountain heart
+32060,3206,0,Plants,a snake plant
+32410,3241,0,Plants,a giant foxglove
+266930,26693,0,Plants,a fern
+32320,3232,0,Plants,a frond
+144542875,14454,2875,Plants,a massive witchwood
+87500,8750,0,Plants,a goliath mushroom
+393490,39349,0,Plants,a ink cap mushroom
+393430,39343,0,Plants,a boletus mushroom
+393460,39346,0,Plants,a cortinarus mushroom
+34960,3496,0,Plants,a maple sapling
+203920,20392,0,Plants,a massive flowering cactus bush
+32250,3225,0,Plants,a palm sapling
+145622842,14562,2842,Plants,a swamp laurel
+33810,3381,0,Plants,a goliant cactus
+33650,3365,0,Plants,a flowering cactus bush
+203850,20385,0,Plants,a giant cactus
+35270,3527,0,Plants,a ash tree
+3701313,3701,313,Bag,backpack
+37122897,3712,2897,Furniture,lesser paragon chest
+35302406,3530,2406,Ship items,shadowhide fishing net
+3701929,3701,929,Bag,backpack
+289110,28911,0,Plants,a snakevine hedge
+214040,21404,0,Plants,a snowy hedge
+275620,27562,0,Plants,a housevine
+33120,3312,0,Plants,a wallflower
+33090,3309,0,Plants,a housevine
+33060,3306,0,Plants,a ash sapling
+195220,19522,0,Plants,a giant foxglove
+32240,3224,0,Plants,a fern
+393480,39348,0,Plants,a ink cap mushroom
+393450,39345,0,Plants,a cortinarius mushroom
+59812903,5981,2903,Fasion,powder cloud cloth
+38432230,3843,2230,Fasion,dark jam hair dye
+59052928,5905,2928,Fasion,metallic chalk cloth thigh boots
+37122539,3712,2539,Furniture,lesser paragon chest
+289090,28909,0,Plants,a snakevine hedge
+213970,21397,0,Plants,a snowy hedge
+214030,21403,0,Plants,a snowy hedge
+275610,27561,0,Plants,a wallflower
+32350,3235,0,Plants,a fern
+25942796,2594,2796,Rares,nusero lantern
+24742207,2474,2207,Furniture,wooden box
+38431467,3843,1467,Fasion,dark coffee hair dye
+53592084,5359,2084,Fasion,a random spell hue deed
+53591908,5359,1908,Fasion,a random spell hue deed
+59052085,5905,2085,Fasion,pulma cloth thigh boots
+58992174,5899,2174,Fasion,dark salmon cloth boots
+3701681,3701,681,Bag,backpack
+25450,2545,0,Craft resources,raw ribs
+192272213,19227,2213,Craft resources,goldenwood commodity
+59812338,5981,2338,Fasion,cavernam cloth
+52010,5201,0,Armor,bone helm
+71730,7173,0,Armor,platemail chest
+59032085,5903,2085,Fasion,pulma cloth shoes
+99172825,9917,2825,Weapon,harpoon
+275800,27580,0,Plants,a giant lashvine
+267350,26735,0,Plants,a goliath lashvine
+38422085,3842,2085,Fasion,pulma headwear dye
+290251462,29025,1462,Fasion,powder orchid furniture dye
+25971956,2597,1956,Fasion,shimmer dahlia lantern
+161470,16147,0,Rares,miniature swords rack
+37150,3715,0,Plants,water tub
+290252167,29025,2167,Fasion,metallic pewter furniture dye
+25372344,2537,2344,Rares,Owyn's Birthday Cake 2019
+24532664,2453,2664,Rares,pint of green beer
+31310,3131,0,Rares,Embalming Reagents
+161590,16159,0,Rares,miniature vanity set
+204962418,20496,2418,Tinker tools,bronzewood item identification wand
+63792839,6379,2839,Rares,Mummifying Reagents
+63792796,6379,2796,Rares,Ossuarian Herbs
+3702531,3702,531,Bag,bag
+59811489,5981,1489,Fasion,metallic raspberry cloth
+291042990,29104,2990,Inscription goods,a treasure map tome
+80971157,8097,1157,Fasion,royal red tunic
+37350,3735,0,Rares,a gilded mastery chain
+25040,2504,0,Misc,jug
+41100,4110,0,Misc,copper key
+39412406,3941,2406,Furniture,easel
+37712406,3771,2406,Furniture,music stand
+42251507,4225,1507,Craft resources,leather
+23230,2323,0,Plants,plant soil
+59950,5995,0,Misc,key ring
+38432092,3843,2092,Fasion,mausoleum shield dye
+290251967,29025,1967,Fasion,shimmer solstice furniture dye
+59812664,5981,2664,Fasion,shimmer shamrock cloth
+3702251,3702,251,Bag,bag
+3702355,3702,355,Bag,bag
+59812230,5981,2230,Fasion,dark jam cloth
+38431465,3843,1465,Fasion,dark blood facial hair dye
+452852592,45285,2592,Aspect Weapons,water aspect weapon oil
+452851757,45285,1757,Aspect Weapons,shadow aspect weapon oil
+76101507,7610,1507,Armor,studded cap
+890153,8901,53,Inscription goods,runebook
+890148,8901,48,Inscription goods,runebook
+890173,8901,73,Inscription goods,runebook
+890188,8901,88,Inscription goods,runebook
+89013,8901,3,Inscription goods,runebook
+890133,8901,33,Inscription goods,runebook
+890123,8901,23,Inscription goods,runebook
+52030,5203,0,Armor,bone arms
+42252406,4225,2406,Craft resources,shadowhide
+393520,39352,0,Plants,a forest mushroom
+123240,12324,0,Plants,a winterthorn
+267320,26732,0,Plants,a lashvine
+145220,14522,0,Plants,a spindle tree sapling
+214000,21400,0,Plants,a snowy hedge
+266700,26670,0,Plants,a mole hill
+266690,26669,0,Plants,a mole hill
+32580,3258,0,Plants,a cattails
+32570,3257,0,Plants,a cattails
+32340,3234,0,Plants,a fern
+213990,21399,0,Plants,a snowgrass
+204952413,20495,2413,Tinker tools,copperwood container identification wand
+425640,42564,0,Tailor goods,a disguise kit
+24742413,2474,2413,Furniture,wooden box
+425292900,42529,2900,Event rares,king's faire gold ribbon
+483321557,48332,1557,Event rares,outlands train car
+483381571,48338,1571,Event rares,passenger train car
+80090,8009,0,Magic scrolls,greater heal scroll
+71270,7127,0,Craft resources,board
+42252425,4225,2425,Craft resources,rosehide
+42252418,4225,2418,Craft resources,bronzehide
+425630,42563,0,Tailor goods,a disguise kit
+298641467,29864,1467,Event rares,pile of suckers
+426922845,42692,2845,Event rares,lollipop
+483291790,48329,1790,Event rares,a train engine
+483292263,48329,2263,Event rares,a train engine
+483052233,48305,2233,Event rares,mount petram snow globe
+214020,21402,0,Plants,a snowy hedge
+87510,8751,0,Plants,a goliath mushroom
+87530,8753,0,Plants,a goliath mushroom
+87520,8752,0,Plants,a goliath mushroom
+33080,3308,0,Plants,a housevine
+32280,3228,0,Plants,a palm sapling
+393440,39344,0,Plants,a wood ear mushroom
+195320,19532,0,Plants,a gem flower
+132780,13278,0,Plants,a flowering brambles
+267000,26700,0,Plants,a oliveleaf
+32200,3220,0,Plants,a stargrass
+32380,3238,0,Plants,a bulbleaf
+289080,28908,0,Plants,a snakevine hedge
+133140,13314,0,Plants,a giant buttercup
+203830,20383,0,Plants,a giant century plant
+267190,26719,0,Plants,a giant cattails
+123230,12323,0,Plants,a winterthorn
+33200,3320,0,Plants,a swamp cypress
+290252338,29025,2338,Fasion,cavernam furniture dye
+290251484,29025,1484,Fasion,metallic cerulean furniture dye
+37122658,3712,2658,Furniture,lesser paragon chest
+37122002,3712,2002,Furniture,lesser paragon chest
+71872873,7187,2873,Rares,blacksmithing crafting manual
+59812808,5981,2808,Fasion,powder blush cloth
+35302871,3530,2871,Ship items,special fishing net
+35302785,3530,2785,Ship items,special fishing net
+35302900,3530,2900,Ship items,special fishing net
+35302851,3530,2851,Ship items,special fishing net
+35302814,3530,2814,Ship items,special fishing net
+63662797,6366,2797,Event rares,Mummifying Herbs
+38422828,3842,2828,Fasion,metallic pickle headwear dye
+80592406,8059,2406,Fasion,shadow iron doublet
+59812406,5981,2406,Fasion,shadow iron cloth
+59812213,5981,2213,Fasion,gold cloth
+80592219,8059,2219,Fasion,valorite doublet
+70331763,7033,1763,Armor,avarwood wooden kite shield
+275840,27584,0,Plants,a giant lashvine
+203760,20376,0,Plants,a giant dried brambles
+203790,20379,0,Plants,a giant dried brambles
+133090,13309,0,Plants,a lilygrass
+133080,13308,0,Plants,a lilygrass
+267210,26721,0,Plants,a giant cattails
+38432796,3843,2796,Fasion,nusero shield dye
+28450,2845,0,Furniture,candelabra
+51830,5183,0,Weapon,power halberd
+70312635,7031,2635,Armor,heater shield
+51382406,5138,2406,Armor,shadow iron platemail helm
+63792797,6379,2797,Event rares,Mummifying Reagents
+24742425,2474,2425,Furniture,wooden box
+223262465,22326,2465,Rares,extremely rare seed
+71272207,7127,2207,Craft resources,verewood board
+3702370,3702,370,Bag,bag
+37122908,3712,2908,Furniture,lesser paragon chest
+38382174,3838,2174,Fasion,dark salmon runebook dye
+5905373,5905,373,Fasion,thigh boots
+37052413,3705,2413,Bag,pouch
+37052418,3705,2418,Bag,pouch
+195240,19524,0,Plants,a orchid
+195200,19520,0,Plants,a mountain heart
+132970,13297,0,Plants,a daffodil
+132910,13291,0,Plants,a dried brambles
+38432379,3843,2379,Fasion,metallic sapphire shield dye
+54450,5445,0,Fasion,exceptional bear mask
+32270,3227,0,Plants,a palm sapling
+266880,26688,0,Plants,a giant fern
+37052213,3705,2213,Bag,pouch
+59812342,5981,2342,Fasion,shimmer lunar cloth
+59812251,5981,2251,Fasion,shimmer periwinkle cloth
+25972092,2597,2092,Fasion,the mausoleum lantern
+370153,3701,53,Bag,backpack
+425302414,42530,2414,Event rares,king's faire bronze trophy
+425292913,42529,2913,Event rares,king's faire bronze ribbon
+59812828,5981,2828,Fasion,metallic pickle cloth
+80910,8091,0,Misc,pitcher
+192290,19229,0,Misc,bandage commodity
+44770,4477,0,Event rares,gravestone
+37121201,3712,1201,Furniture,lesser paragon chest
+37122392,3712,2392,Furniture,lesser paragon chest
+37122937,3712,2937,Furniture,lesser paragon chest
+37122564,3712,2564,Furniture,lesser paragon chest
+37122527,3712,2527,Furniture,lesser paragon chest
+37121237,3712,1237,Furniture,lesser paragon chest
+37121191,3712,1191,Furniture,lesser paragon chest
+450850,45085,0,Event rares,a treat basket
+38432398,3843,2398,Fasion,metallic olive shield dye
+38431909,3843,1909,Fasion,inferno shield dye
+117610,11761,0,Rares,magic item recycler
+3702448,3702,448,Bag,bag
+3701723,3701,723,Bag,backpack
+3701728,3701,728,Bag,backpack
+425292875,42529,2875,Event rares,king's faire silver ribbon
+425302900,42530,2900,Event rares,king's faire gold trophy
+3701448,3701,448,Bag,backpack
+3702812,3702,812,Bag,bag
+3702649,3702,649,Bag,bag
+33472897,3347,2897,Plants,a swamp mushroom
+123220,12322,0,Plants,a winterthorn
+32070,3207,0,Plants,a campion cluster
+267010,26701,0,Plants,a sumac
+32230,3223,0,Plants,a elephant ear
+267200,26720,0,Plants,a giant cattails
+53592090,5359,2090,Fasion,a random spell hue deed
+482611757,48261,1757,Aspect Weapons,shadow aspect spell foci
+290252091,29025,2091,Fasion,ossuary furniture dye
+204950,20495,0,Tinker tools,container identification wand
+192352213,19235,2213,Craft resources,goldenhide commodity
+38432226,3843,2226,Fasion,dark peacock shield dye
+70312226,7031,2226,Armor,heater shield
+71091909,7109,1909,Armor,gold order shield
+53592796,5359,2796,Fasion,a random spell hue deed
+38382928,3838,2928,Fasion,metallic chalk runebook dye
+37122797,3712,2797,Furniture,lesser paragon chest
+37122942,3712,2942,Furniture,lesser paragon chest
+51122419,5112,2419,Weapon,gnarled staff
+133190,13319,0,Plants,a pineflower
+295020,29502,0,Plants,a foxglove
+32590,3259,0,Plants,a swampgrass
+32370,3237,0,Plants,a giant pampas grass
+39201763,3920,1763,Weapon,avarwood crossbow
+35682213,3568,2213,Weapon,goldenwood black staff
+51122207,5112,2207,Weapon,verewood gnarled staff
+35302219,3530,2219,Ship items,valehide fishing net
+70332406,7033,2406,Armor,shadowwood wooden kite shield
+70312096,7031,2096,Armor,heater shield
+38432767,3843,2767,Fasion,earth aspect shield dye
+298332527,29833,2527,Furniture,greater paragon chest
+298331237,29833,1237,Furniture,greater paragon chest
+35202413,3520,2413,Tinker tools,copperwood fishing pole
+37052207,3705,2207,Bag,pouch
+102452419,10245,2419,Instruments,dullwood bamboo flute
+102452406,10245,2406,Instruments,shadowwood bamboo flute
+102452413,10245,2413,Instruments,copperwood bamboo flute
+37132418,3713,2418,Weapon,bronzewood shepherd's crook
+37132213,3713,2213,Weapon,goldenwood shepherd's crook
+102452418,10245,2418,Instruments,bronzewood bamboo flute
+102452425,10245,2425,Instruments,rosewood bamboo flute
+32170,3217,0,Plants,a hedge
+133120,13312,0,Plants,a begonia
+193700,19370,0,Plants,a canopy flower
+133280,13328,0,Plants,a giant snowdrops
+34920,3492,0,Plants,a maple sapling
+61870,6187,0,Misc,defoliant
+194032897,19403,2897,Misc,superior fertilizer
+204962413,20496,2413,Tinker tools,copperwood item identification wand
+32040,3204,0,Plants,a foxglove
+483291479,48329,1479,Event rares,a train engine
+35302419,3530,2419,Ship items,dullhide fishing net
+38422092,3842,2092,Fasion,mausoleum headwear dye
+70292207,7029,2207,Armor,verite metal kite shield
+59011779,5901,1779,Fasion,aegis keep cloth sandals
+3702992,3702,992,Bag,bag
+370283,3702,83,Bag,bag
+32150,3215,0,Plants,a hedge
+71272219,7127,2219,Craft resources,valewood board
+71271763,7127,1763,Craft resources,avarwood board
+192272406,19227,2406,Craft resources,shadowwood commodity
+63380,6338,0,Misc,huge steel plant bowl
+38432827,3843,2827,Fasion,metallic mint facial hair dye
+290251467,29025,1467,Fasion,dark coffee furniture dye
+59812875,5981,2875,Fasion,artificer enclave cloth
+63350,6335,0,Misc,large steel plant bowl
+59811918,5981,1918,Fasion,adventurer lodge cloth
+59812635,5981,2635,Fasion,fire aspect cloth
+54430,5443,0,Fasion,exceptional restyled leather cap
+483382808,48338,2808,Event rares,passenger train car
+483302843,48330,2843,Event rares,a train engine
+483422903,48342,2903,Rares,ore train car
+219430,21943,0,Fasion,ruffled cloak
+483052740,48305,2740,Rares,aegis keep snow globe
+71700,7170,0,Armor,female studded chest
+276122910,27612,2910,Rares,a lore page
+890198,8901,98,Inscription goods,runebook
+890158,8901,58,Inscription goods,runebook
+393500,39350,0,Plants,a forest mushroom
+32620,3262,0,Plants,a red poppy cluster
+32110,3211,0,Plants,a freesia
+51122213,5112,2213,Weapon,goldenwood gnarled staff
+204980,20498,0,Misc,growth serum
+192372207,19237,2207,Craft resources,verite ingot commodity
+192372425,19237,2425,Craft resources,agapite ingot commodity
+192372213,19237,2213,Craft resources,gold ingot commodity
+192372418,19237,2418,Craft resources,bronze ingot commodity
+192372419,19237,2419,Craft resources,dull copper ingot commodity
+192372413,19237,2413,Craft resources,copper ingot commodity
+192372406,19237,2406,Craft resources,shadow iron ingot commodity
+40790,4079,0,Misc,House Report 4 by htt
+38382338,3838,2338,Fasion,cavernam runebook dye
+38421909,3842,1909,Fasion,inferno headwear dye
+38381462,3838,1462,Fasion,powder orchid runebook dye
+38382653,3838,2653,Fasion,metallic lemon-lime runebook dye
+62640,6264,0,Tinker tools,gold trap wire
+99172207,9917,2207,Weapon,verite harpoon
+370263,3702,63,Bag,bag
+8901191,8901,191,Inscription goods,runebook
+890156,8901,56,Inscription goods,runebook
+89050,8905,0,Rares,miniature small wooden house
+441300,44130,0,Rares,circular stained glass window
+70311470,7031,1470,Armor,heater shield
+31380,3138,0,Event rares,Embalming Reagents
+31360,3136,0,Event rares,Embalming Reagents
+31332810,3133,2810,Event rares,Embalming Reagents
+53592605,5359,2605,Fasion,a random spell hue deed
+53591778,5359,1778,Fasion,a random spell hue deed
+398562263,39856,2263,Aspect Weapons,air aspect arrow bundle
+204952219,20495,2219,Tinker tools,valewood container identification wand
+8901363,8901,363,Inscription goods,runebook
+218380,21838,0,Fasion,mage's robe
+180650,18065,0,Event rares,sinister pumpkin
+483052092,48305,2092,Event rares,mausoleum snow globe
+402930,40293,0,Rares,sword trophy
+37122875,3712,2875,Furniture,lesser paragon chest
+192372219,19237,2219,Craft resources,valorite ingot commodity
+3702453,3702,453,Bag,bag
+37021001,3702,1001,Bag,bag
+370223,3702,23,Bag,bag
+3702363,3702,363,Bag,bag
+370298,3702,98,Bag,bag
+370213,3702,13,Bag,bag
+115522406,11552,2406,Tinker tools,shadow iron skinning knife
+290362796,29036,2796,Fasion,nusero carpet dye
+25972796,2597,2796,Rares,nusero lantern
+161460,16146,0,Rares,miniature polearms rack
+3701318,3701,318,Bag,backpack
+42480,4248,0,Rares,dyeable rug tile
+370293,3702,93,Bag,bag
+37022219,3702,2219,Bag,bag
+37021763,3702,1763,Bag,bag
+8901185,8901,185,Inscription goods,runebook
+2178813,21788,13,Fasion,asked hood
+204952207,20495,2207,Tinker tools,verewood container identification wand
+298682207,29868,2207,Tinker tools,verite planter's spade
+290252096,29025,2096,Fasion,artisan aspect furniture dye
+290361989,29036,1989,Fasion,metallic orange carpet dye
+59811465,5981,1465,Fasion,dark blood cloth
+59811476,5981,1476,Fasion,shimmer cardinal cloth
+37122843,3712,2843,Furniture,lesser paragon chest
+52070,5207,0,Armor,bone legs
+25461848,2546,1848,Misc,cooked ribs
+79562882,7956,2882,Misc,blank recall rune
+38431995,3843,1995,Fasion,metallic wine facial hair dye
+37122906,3712,2906,Furniture,lesser paragon chest
+37122615,3712,2615,Furniture,lesser paragon chest
+37122591,3712,2591,Furniture,lesser paragon chest
+170832796,17083,2796,Rares,a token of heroism
+25972089,2597,2089,Fasion,mount petram lantern
+38431495,3843,1495,Fasion,powder coral hair dye
+204962406,20496,2406,Tinker tools,shadowwood item identification wand
+290361909,29036,1909,Fasion,inferno carpet dye
+29400,2940,0,Furniture,table
+370148,3701,48,Bag,backpack
+2178738,21787,38,Fasion,cowled hood
+290362091,29036,2091,Fasion,ossuary carpet dye
+58991467,5899,1467,Fasion,dark coffee cloth boots
+890129,8901,29,Inscription goods,runebook
+8901128,8901,128,Inscription goods,runebook
+290362167,29036,2167,Fasion,metallic pewter carpet dye
+290362092,29036,2092,Fasion,mausoleum carpet dye
+89600,8960,0,Rares,miniature two story villa
+257120,25712,0,Rares,cooking spices wall shelf
+161570,16157,0,Rares,miniature painting
+38432808,3843,2808,Fasion,powder blush shield dye
+38432091,3843,2091,Fasion,ossuary shield dye
+290362226,29036,2226,Fasion,dark peacock carpet dye
+290362338,29036,2338,Fasion,cavernam carpet dye
+25942338,2594,2338,Rares,cavernam lantern
+290362089,29036,2089,Fasion,mount petram carpet dye
+3702248,3702,248,Bag,bag
+3702691,3702,691,Bag,bag
+53592086,5359,2086,Fasion,blood aspect random spell hue deed
+53592240,5359,2240,Fasion,lyric aspect random spell hue deed
+53592842,5359,2842,Fasion,Fortune aspect random spell hue deed
+58991779,5899,1779,Fasion,aegis keep cloth boots
+482612096,48261,2096,Aspect Weapons,artisan aspect spell foci
+290362845,29036,2845,Fasion,metallic juniper carpet dye
+217872346,21787,2346,Fasion,cowled hood
+80972085,8097,2085,Fasion,pulma tunic
+25972839,2597,2839,Fasion,fire aspect lantern
+3702101,3702,101,Bag,bag
+370271,3702,71,Bag,bag
+204962207,20496,2207,Tinker tools,verewood item identification wand
+145440,14544,0,Plants,a corpsewood sapling
+51130,5113,0,Weapon,gnarled staff
+290362928,29036,2928,Fasion,metallic chalk carpet dye
+51292406,5129,2406,Armor,shadow iron close helm
+51352418,5135,2418,Armor,bronze norse helm
+51292418,5129,2418,Armor,bronze close helm
+51352413,5135,2413,Armor,copper norse helm
+182830,18283,0,Rares,a storage shelf
+24742406,2474,2406,Furniture,wooden box
+24742419,2474,2419,Furniture,wooden box
+290362379,29036,2379,Fasion,metallic sapphire carpet dye
+36502797,3650,2797,Furniture,paragon chest
+204952406,20495,2406,Tinker tools,shadowwood container identification wand
+42550,4255,0,Rares,dyeable rug tile
+290362255,29036,2255,Fasion,powder lapis carpet dye
+290362843,29036,2843,Fasion,fortune aspect carpet dye
+218631571,21863,1571,Fasion,shimmer garnet slim trousers
+42252822,4225,2822,Rares,leather
+24590,2459,0,Misc,beverage bottle
+291042799,29104,2799,Rares,a lumber map tome
+37122940,3712,2940,Furniture,lesser paragon chest
+890193,8901,93,Inscription goods,runebook
+3702937,3702,937,Bag,bag
+370268,3702,68,Bag,bag
+294980,29498,0,Plants,a kings cup
+32710,3271,0,Plants,a bulbweed
+70312817,7031,2817,Armor,heater shield
+290361467,29036,1467,Fasion,dark coffee carpet dye
+5912356,5912,356,Fasion,armored magical wizard's hat
+59012827,5901,2827,Fasion,metallic mint cloth sandals
+471620,47162,0,Event rares,preserved ossuary artifact
+161670,16167,0,Rares,miniature guillotine
+161500,16150,0,Rares,miniature ash tree
+290362898,29036,2898,Fasion,metallic eggplant carpet dye
+290361494,29036,1494,Fasion,powder pistachio carpet dye
+290362085,29036,2085,Fasion,pulma carpet dye
+32140,3214,0,Plants,a snowdrop cluster
+217860,21786,0,Fasion,ranger's hood
+59811483,5981,1483,Fasion,shimmer oxide cloth
+59811479,5981,1479,Fasion,shimmer evergreen cloth
+298332654,29833,2654,Furniture,greater paragon chest
+37082904,3708,2904,Furniture,paragon chest
+25972091,2597,2091,Rares,ossuary lantern
+405530,40553,0,Rares,ossuary hieroglyph
+290362827,29036,2827,Fasion,metallic mint carpet dye
+290252174,29025,2174,Fasion,dark salmon furniture dye
+290402091,29040,2091,Chain,a gold mastery chain link reforging tool
+38421967,3842,1967,Fasion,shimmer solstice headwear dye
+38431489,3843,1489,Fasion,metallic raspberry shield dye
+290251995,29025,1995,Fasion,metallic wine furniture dye
+290362826,29036,2826,Fasion,metallic sky carpet dye
+53592140,5359,2140,Fasion,a random spell hue deed
+218356,21835,6,Fasion,gilded fancy robe
+219472346,21947,2346,Fasion,shimmer paradox fur mantle
+290362230,29036,2230,Fasion,dark jam carpet dye
+59812615,5981,2615,Fasion,eldritch aspect cloth
+398892377,39889,2377,Misc,whirlwind rune
+59012174,5901,2174,Fasion,dark salmon cloth sandals
+161650,16165,0,Rares,miniature broken vanity set
+408260,40826,0,Rares,large icicles
+212560,21256,0,Rares,snow covered water barrel
+290362804,29036,2804,Fasion,dark forest carpet dye
+370291,3702,91,Bag,bag
+53592795,5359,2795,Fasion,a random spell hue deed
+290252380,29025,2380,Fasion,metallic cherry furniture dye
+484070,48407,0,Rares,dyeable carpet tile
+25972099,2597,2099,Fasion,darkmire temple lantern
+37622219,3762,2219,Instruments,valewood harp
+71210,7121,0,Craft resources,feather
+37622213,3762,2213,Instruments,goldenwood harp
+59052167,5905,2167,Fasion,metallic pewter cloth thigh boots
+37622425,3762,2425,Instruments,rosewood harp
+161530,16153,0,Rares,miniature nobleman statue
+59812255,5981,2255,Fasion,powder lapis cloth
+290362653,29036,2653,Fasion,metallic lemon-lime carpet dye
+38422174,3842,2174,Fasion,dark salmon headwear dye
+290361382,29036,1382,Fasion,powder lemon carpet dye
+422410,42241,0,Rares,hippogriff trophy
+58992085,5899,2085,Fasion,pulma cloth boots
+484050,48405,0,Rares,dyeable gilded carpet tile
+35302413,3530,2413,Tailor goods,copperhide fishing net
+38382092,3838,2092,Fasion,mausoleum runebook dye
+290361489,29036,1489,Fasion,metallic raspberry carpet dye
+483422251,48342,2251,Event rares,ore train car
+483382241,48338,2241,Event rares,passenger train car
+99172219,9917,2219,Weapon,valorite harpoon
+99172425,9917,2425,Weapon,agapite harpoon
+59812452,5981,2452,Fasion,order cloth
+290362227,29036,2227,Fasion,powder ruby carpet dye
+290361779,29036,1779,Fasion,aegis keep carpet dye
+51352406,5135,2406,Armor,shadow iron norse helm
+51292419,5129,2419,Armor,dull copper close helm
+25942091,2594,2091,Rares,ossuary lantern
+51292413,5129,2413,Armor,copper close helm
+59032827,5903,2827,Fasion,metallic mint cloth shoes
+290361495,29036,1495,Fasion,powder coral carpet dye
+78162390,7816,2390,Rares,roasted lamb
+36500,3650,0,Furniture,wooden chest
+38432804,3843,2804,Fasion,dark forest shield dye
+290362398,29036,2398,Fasion,metallic olive carpet dye
+290362099,29036,2099,Fasion,darkmire temple carpet dye
+290361465,29036,1465,Fasion,dark blood carpet dye
+452810,45281,0,Rares,arachnid figurine
+33290,3329,0,Plants,a scourgewood
+123210,12321,0,Plants,a winterthorn
+132900,13290,0,Plants,a brambles
+275770,27577,0,Plants,a giant lashvine
+37121357,3712,1357,Furniture,lesser paragon chest
+37122796,3712,2796,Furniture,lesser paragon chest
+37121759,3712,1759,Furniture,lesser paragon chest
+37122964,3712,2964,Furniture,lesser paragon chest
+37122575,3712,2575,Furniture,lesser paragon chest
+32330,3233,0,Plants,a fern
+70262380,7026,2380,Armor,bronze shield
+288262917,28826,2917,Misc,a river carp
+425172796,42517,2796,Rares,a token of heroism
+59030,5903,0,Fasion,shoes
+39990,3999,0,Misc,scissors
+41110,4111,0,Misc,gold key
+62620,6262,0,Tinker tools,iron trap wire
+62650,6265,0,Tinker tools,copper trap wire
+25530,2553,0,Misc,spoon
+102451763,10245,1763,Instruments,avarwood bamboo flute
+51352419,5135,2419,Armor,dull copper norse helm
+37122901,3712,2901,Furniture,lesser paragon chest
+37122823,3712,2823,Furniture,lesser paragon chest
+37122587,3712,2587,Furniture,lesser paragon chest
+290361995,29036,1995,Fasion,metallic wine carpet dye
+290362380,29036,2380,Fasion,metallic cherry carpet dye
+290361462,29036,1462,Fasion,powder orchid carpet dye
+290362807,29036,2807,Fasion,dark rust carpet dye
+3702997,3702,997,Bag,bag
+3702837,3702,837,Bag,bag
+50752406,5075,2406,Armor,shadowhide leather chest
+393470,39347,0,Plants,a boletus mushroom
+32030,3203,0,Plants,a campion
+266640,26664,0,Plants,a wheatgrass
+3702646,3702,646,Bag,bag
+370236,3702,36,Bag,bag
+3702588,3702,588,Bag,bag
+5422279,5422,279,Fasion,short pants
+5399417,5399,417,Fasion,shirt
+217862338,21786,2338,Fasion,ranger's hood
+37622207,3762,2207,Instruments,verewood harp
+59032338,5903,2338,Fasion,cavernam cloth shoes
+38431156,3843,1156,Fasion,dark blueberry shield dye
+3701905,3701,905,Bag,backpack
+59012227,5901,2227,Fasion,powder ruby cloth sandals
+290251384,29025,1384,Fasion,powder azure furniture dye
+290361990,29036,1990,Fasion,metallic amber carpet dye
+38392380,3839,2380,Fasion,metallic cherry backpack dye
+59031995,5903,1995,Fasion,metallic wine cloth shoes
+38421779,3842,1779,Fasion,aegis keep headwear dye
+38381496,3838,1496,Fasion,powder peach runebook dye
+59032828,5903,2828,Fasion,metallic pickle cloth shoes
+58992338,5899,2338,Fasion,cavernam cloth boots
+290361952,29036,1952,Fasion,powder bubblegum carpet dye
+59012877,5901,2877,Fasion,powder cyan cloth sandals
+59811989,5981,1989,Fasion,metallic orange cloth
+398562635,39856,2635,Aspect Weapons,fire aspect arrow bundle
+37082797,3708,2797,Furniture,lesser paragon chest
+370233,3702,33,Bag,bag
+483930,48393,0,Rares,dyeable carpet tile
+37121102,3712,1102,Furniture,lesser paragon chest
+37121619,3712,1619,Furniture,lesser paragon chest
+448000,44800,0,Rares,impaled orcish skull
+290361484,29036,1484,Fasion,metallic cerulean carpet dye
+890113,8901,13,Inscription goods,runebook
+37121764,3712,1764,Furniture,lesser paragon chest
+37182406,3718,2406,Tinker tools,shadow iron pickaxe
+3702894,3702,894,Bag,bag
+3702697,3702,697,Bag,bag
+59012338,5901,2338,Fasion,cavernam cloth sandals
+3702856,3702,856,Bag,bag
+25972346,2597,2346,Fasion,shimmer paradox lantern
+290362877,29036,2877,Fasion,powder cyan carpet dye
+180800,18080,0,Event rares,horn of plenty
+483052929,48305,2929,Event rares,inferno snow globe
+217901175,21790,1175,Fasion,kabuki mask
+406070,40607,0,Rares,ossuary hieroglyph
+219532338,21953,2338,Fasion,cavernam evening gloves
+80592664,8059,2664,Fasion,shimmer shamrock doublet
+54312664,5431,2664,Fasion,shimmer shamrock kilt
+62260,6226,0,Tinker tools,scales
+41670,4167,0,Tinker tools,globe
+38381779,3838,1779,Fasion,aegis keep runebook dye
+58992928,5899,2928,Fasion,metallic chalk cloth boots
+33320,3332,0,Plants,a spadegrass
+70312804,7031,2804,Armor,heater shield
+70332804,7033,2804,Armor,wooden kite shield
+59052091,5905,2091,Fasion,ossuary cloth thigh boots
+290362174,29036,2174,Fasion,dark salmon carpet dye
+42482380,4248,2380,Fasion,metallic cherry dyeable rug tile
+59811495,5981,1495,Fasion,powder coral cloth
+59812380,5981,2380,Fasion,metallic cherry cloth
+447200,44720,0,Rares,bear topiary
+447220,44722,0,Rares,deer topiary
+71072379,7107,2379,Armor,verite chaos shield
+71072380,7107,2380,Armor,verite chaos shield
+71071909,7107,1909,Armor,verite chaos shield
+59012085,5901,2085,Fasion,pulma cloth sandals
+219470,21947,0,Fasion,fur mantle
+290362801,29036,2801,Fasion,dark denim carpet dye
+42490,4249,0,Rares,dyeable rug tile
+70312174,7031,2174,Armor,heater shield
+76102406,7610,2406,Armor,shadowhide leather cap
+393510,39351,0,Plants,a forest mushroom
+204982642,20498,2642,Misc,fertility serum
+399122606,39912,2606,Misc,focus rune
+447960,44796,0,Rares,impaled rotting skull
+21786319,21786,319,Fasion,ranger's hood
+290252808,29025,2808,Fasion,powder blush furniture dye
+38422226,3842,2226,Fasion,dark peacock headwear dye
+38422091,3842,2091,Fasion,ossuary headwear dye
+38422342,3842,2342,Fasion,shimmer lunar headwear dye
+58992845,5899,2845,Fasion,metallic juniper cloth boots
+59811496,5981,1496,Fasion,powder peach cloth
+218402406,21840,2406,Fasion,shadow iron tunic with belt
+59812224,5981,2224,Fasion,dark steel cloth
+217862406,21786,2406,Fasion,ranger's hood
+59012406,5901,2406,Fasion,shadow iron cloth sandals
+54470,5447,0,Fasion,deer mask
+51470,5147,0,Fasion,orc mask
+38422338,3842,2338,Fasion,cavernam headwear dye
+3701132,3701,132,Bag,backpack
+405520,40552,0,Rares,ossuary hieroglyph
+29592406,2959,2406,Furniture,table
+28622406,2862,2406,Furniture,wooden chair
+28662207,2866,2207,Furniture,throne
+53971956,5397,1956,Fasion,shimmer dahlia cloak
+38431494,3843,1494,Fasion,powder pistachio shield dye
+290251465,29025,1465,Fasion,dark blood furniture dye
+25971571,2597,1571,Fasion,shimmer garnet lantern
+59811381,5981,1381,Fasion,powder spring cloth
+59011909,5901,1909,Fasion,inferno cloth sandals
+793723,7937,23,Fasion,plain dress
+51322213,5132,2213,Armor,gold bascinet
+59811381,5981,1381,Fasion,powder spring cloth
+3702952,3702,952,Bag,bag
+32390,3239,0,Plants,a bellgrass
+59032099,5903,2099,Fasion,darkmire temple cloth shoes
+25972342,2597,2342,Fasion,shimmer lunar lantern
+29410,2941,0,Furniture,table
+28980,2898,0,Furniture,cushioned wooden chair
+29000,2900,0,Furniture,cushioned wooden chair
+29412406,2941,2406,Furniture,table
+28602406,2860,2406,Furniture,wooden bench
+59031489,5903,1489,Fasion,metallic raspberry cloth shoes
+59012653,5901,2653,Fasion,metallic lemon-lime cloth sandals
+35910,3591,0,Tailor goods,a wig stand
+405640,40564,0,Rares,ossuary hieroglyph
+59812653,5981,2653,Fasion,metallic lemon-lime cloth
+31740,3174,0,Food,gourd
+31780,3178,0,Food,pumpkin
+31910,3191,0,Food,carrot
+59190,5919,0,Food,banana
+59032091,5903,2091,Fasion,ossuary cloth shoes
+59052826,5905,2826,Fasion,metallic sky cloth thigh boots
+38432828,3843,2828,Fasion,metallic pickle shield dye
+59012091,5901,2091,Fasion,ossuary cloth sandals
+38182213,3818,2213,Rares,a tarnished gold coin bearing the impression of Empress Delia von Hosenfeld dated 472 AC
+63410,6341,0,Tinker tools,large wooden planter
+38432653,3843,2653,Fasion,metallic lemon-lime facial hair dye
+25972843,2597,2843,Fasion,fortune aspect lantern
+51352213,5135,2213,Armor,gold norse helm
+51352425,5135,2425,Armor,agapite norse helm
+51382207,5138,2207,Armor,verite platemail helm
+51292207,5129,2207,Armor,verite close helm
+51382219,5138,2219,Armor,valorite platemail helm
+51292219,5129,2219,Armor,valorite close helm
+51292425,5129,2425,Armor,agapite close helm
+51292213,5129,2213,Armor,gold close helm
+51382418,5138,2418,Armor,bronze platemail helm
+51382213,5138,2213,Armor,gold platemail helm
+51382425,5138,2425,Armor,agapite platemail helm
+51352219,5135,2219,Armor,valorite norse helm
+51352207,5135,2207,Armor,verite norse helm
+38431989,3843,1989,Fasion,metallic orange hair dye
+59811957,5981,1957,Fasion,shimmer redux cloth
+133000,13300,0,Plants,a larkspur
+3702903,3702,903,Bag,bag
+370231,3702,31,Bag,bag
+3702457,3702,457,Bag,bag
+3702150,3702,150,Bag,bag
+39472908,3947,2908,Event rares,cavernam torch
+59012251,5901,2251,Fasion,shimmer periwinkle sandals
+24722635,2472,2635,Furniture,lesser paragon chest
+37402213,3740,2213,Instruments,goldenwood drums
+298632380,29863,2380,Event rares,sucker
+298642827,29864,2827,Event rares,pile of suckers
+78192262,7819,2262,Event rares,giant roast bird
+288610,28861,0,Event rares,fruit basket
+25941574,2594,1574,Fasion,shimmer equinox lantern
+38431574,3843,1574,Fasion,shimmer equinox hair dye
+59811574,5981,1574,Fasion,shimmer equinox cloth
+405810,40581,0,Rares,ossuary hieroglyph
+59122092,5912,2092,Fasion,restyled leather cap
+59812346,5981,2346,Fasion,shimmer paradox cloth
+38431779,3843,1779,Fasion,aegis keep hair dye
+290361470,29036,1470,Fasion,metallic umber carpet dye
+59811990,5981,1990,Fasion,metallic amber cloth
+59012843,5901,2843,Fasion,fortune aspect cloth sandals
+217842091,21784,2091,Fasion,undead mask
+290361156,29036,1156,Fasion,dark blueberry carpet dye
+59052338,5905,2338,Fasion,cavernam cloth thigh boots
+53591779,5359,1779,Fasion,a spell hue deed
+291042227,29104,2227,Rares,a spell scroll tome
+38341788,3834,1788,Rares,legacy water aspect spellbook
+431660,43166,0,Rares,dyeable gilded gold carpet tile
+54511175,5451,1175,Fasion,tribal mask
+54351175,5435,1175,Fasion,charcoal half apron
+58991175,5899,1175,Fasion,charcoal boots
+80591175,8059,1175,Fasion,charcoal doublet
+54311175,5431,1175,Fasion,charcoal kilt
+204992642,20499,2642,Misc,superior fertility serum
+290252246,29025,2246,Fasion,powder seafoam furniture dye
+25392125,2539,2125,Ship items,doubloons
+288500,28850,0,Misc,fish plate
+59120,5912,0,Fasion,a magical wizard's hat
+78662875,7866,2875,Rares,inscription repair kit
+24732213,2473,2213,Furniture,small crate
+38342910,3834,2910,Weapon,surpassingly potent lesser petram slaying magic spellbook
+59052226,5905,2226,Fasion,dark peacock cloth thigh boots
+217892174,21789,2174,Fasion,exceptional balaclava
+399092916,39909,2916,Misc,essence rune
+37122241,3712,2241,Furniture,lesser paragon chest
+24722392,2472,2392,Furniture,lesser paragon chest
+5905842,5905,842,Fasion,cloth thigh boots
+298631465,29863,1465,Event rares,sucker
+452390,45239,0,Rares,shadow dragon figurine
+25971574,2597,1574,Fasion,shimmer equinox lantern
+290361939,29036,1939,Fasion,dark crimson carpet dye
+38392174,3839,2174,Fasion,dark salmon backpack dye
+35302418,3530,2418,Ship items,bronzehide fishing net
+406160,40616,0,Rares,ossuary hieroglyph
+71512419,7151,2419,Craft resources,dull copper ingot
+37122398,3712,2398,Furniture,lesser paragon chest
+37122607,3712,2607,Furniture,lesser paragon chest
+59902099,5990,2099,Fasion,darkmire temple cloth
+38432845,3843,2845,Fasion,metallic juniper hair dye
+290252807,29025,2807,Fasion,dark rust furniture dye
+89015,8901,5,Inscription goods,runebook
+89015,8901,5,Inscription goods,runebook
+298682419,29868,2419,Tinker tools,dull copper planter's spade
+59031989,5903,1989,Fasion,metallic orange cloth shoes
+29072406,2907,2406,Furniture,chair
+29072419,2907,2419,Furniture,chair
+37712419,3771,2419,Furniture,music stand
+39412419,3941,2419,Furniture,easel
+3702951,3702,951,Bag,bag
+145300,14530,0,Plants,a spindle tree sapling
+77320,7732,0,Misc,a scarecrow
+59812897,5981,2897,Fasion,poison aspect cloth
+59812599,5981,2599,Fasion,void aspect cloth
+291082257,29108,2257,Misc,history of outpost
+409580,40958,0,Rares,large lilac
+291430,29143,0,Rares,transport cart
+223262933,22326,2933,Event rares,easter seed
+290362173,29036,2173,Fasion,powder iris carpet dye
+590539,5905,39,Fasion,cloth thigh boots
+51152141,5115,2141,Weapon,power lesser darkmire slaying large battle axe
+193751382,19375,1382,Event rares,powder lemon easterbells
+62642241,6264,2241,Misc,platinum trap wire
+267700,26770,0,Rares,giant lodestones
+51420,5142,0,Armor,durable invulnerability platemail chest
+38431484,3843,1484,Fasion,metallic cerulean facial hair dye
+290361496,29036,1496,Fasion,powder peach carpet dye
+37192141,3719,2141,Weapon,surpassingly accurate ruin lesser darkmire slaying pitchfork
+38391470,3839,1470,Fasion,metallic umber backpack dye
+452220,45222,0,Rares,jaguar trophy
+38431484,3843,1484,Fasion,metallic cerulean shield dye
+58991939,5899,1939,Fasion,dark crimson cloth boots
+84842797,8484,2797,Rares,order of armorers mount token
+35681763,3568,1763,Weapon,avarwood black staff
+119422728,11942,2728,Misc,superior treated heat filter
+21781502,21781,502,Fasion,spider mask
+80591790,8059,1790,Fasion,shadow aspect doublet
+80592092,8059,2092,Fasion,mausoleum doublet
+59112843,5911,2843,Fasion,fortune aspect straw hat
+219312796,21931,2796,Fasion,nusero tunic with sash
+218801967,21880,1967,Fasion,shimmer solstice corseted belt
+219471956,21947,1956,Fasion,shimmer dahlia fur mantle
+29102406,2910,2406,Furniture,foot stool
+37662406,3766,2406,Furniture,music stand
+37612419,3761,2419,Furniture,dullwood standing harp
+37612406,3761,2406,Furniture,shadowwood standing harp
+28672213,2867,2213,Furniture,throne
+289870,28987,0,Misc,small wooden planter
+3702703,3702,703,Bag,bag
+59852615,5985,2615,Fasion,eldritch aspect cloth
+59812767,5981,2767,Fasion,earth aspect cloth
+484072767,48407,2767,Fasion,earth aspect dyeable gilded carpet tile
+484062767,48406,2767,Fasion,earth aspect dyeable gilded carpet tile
+484052767,48405,2767,Fasion,earth aspect dyeable gilded carpet tile
+28792599,2879,2599,Furniture,Counter
+59812877,5981,2877,Fasion,powder cyan cloth
+70311467,7031,1467,Armor,gold heater shield
+80952664,8095,2664,Fasion,shimmer shamrock jester suit
+219212255,21921,2255,Fasion,rooked wizard's hat
+218531158,21853,1158,Fasion,royal purple nobleman's shirt
+54311156,5431,1156,Fasion,dark blueberry kilt
+219532251,21953,2251,Fasion,shimmer periwinkle evening gloves
+218801158,21880,1158,Fasion,royal purple corseted belt
+218892246,21889,2246,Fasion,powder seafoam arcane robe
+59012452,5901,2452,Fasion,order sandals
+219342056,21934,2056,Fasion,arena magistrate's robe
+59012246,5901,2246,Fasion,powder seafoam sandals
+218032346,21803,2346,Fasion,shimmer paradox fur lined boots
+217831467,21783,1467,Fasion,sabertooth mask
+217982452,21798,2452,Fasion,neckerchief
+290361381,29036,1381,Fasion,powder spring carpet dye
+91200,9120,0,Misc,KODEKS KIR by The Book of Circles
+80230,8023,0,Magic scrolls,explosion scroll
+80220,8022,0,Magic scrolls,energy bolt scroll
+80591557,8059,1557,Fasion,shimmer spice doublet
+218352342,21835,2342,Fasion,shimmer lunar gilded fancy robe
+406080,40608,0,Rares,ossuary hieroglyph
+38392653,3839,2653,Fasion,metallic lemon-lime backpack dye
+24960,2496,0,Food,raw sausage
+290362808,29036,2808,Fasion,powder blush carpet dye
+298331759,29833,1759,Furniture,greater paragon chest
+38381989,3838,1989,Fasion,metallic orange runebook dye
+132990,13299,0,Plants,a daffodil
+133010,13301,0,Plants,a larkspur
+392640,39264,0,Plants,a copus
+275630,27563,0,Plants,a wallflower

@@ -1,0 +1,112 @@
+{% extends "store/base.html" %}
+{% block content %}
+{% load humanize %}
+{% load static %}
+{% load filter_my %}
+{% load crispy_forms_tags %}
+<script  type="text/javascript">
+
+$(document).ready(function(){
+  
+  var fail = `<div class="alert alert-dismissible alert-danger">
+              <button type="button" class="close" data-dismiss="alert">&times;</button>
+              <strong>Login or password is incorrect</strong>Fix it and <a href="{% url 'login' %}" class="alert-link">try submitting again.</a>
+              </div>`
+  
+  var success = `<div class="media"><img src="{% static 'store/0x1AFB.gif' %}" style="width:44x;height:150px;"></div>`
+  
+  var login_empty = `<div class="alert alert-dismissible alert-danger">
+              <button type="button" class="close" data-dismiss="alert">&times;</button>
+              <strong>Login is empty!</strong>Fix it and try submitting again.
+              </div>`
+
+  var password_empty = `<div class="alert alert-dismissible alert-danger">
+              <button type="button" class="close" data-dismiss="alert">&times;</button>
+              <strong>Password is empty!</strong>Fix it and try submitting again.
+              </div>`
+
+  $('#login').click(function(event) {
+
+    if ($("#inputLogin").val() == "") {
+      $('#result').append(login_empty);
+      return false;
+    }
+    if ($("#inputPassword").val() == "") {
+      $('#result').append(password_empty);
+      return false;
+    }
+
+    var login = $("#inputLogin").val();
+    var password = $("#inputPassword").val();
+    document.getElementById("input_form").remove();
+
+    $.ajax({
+      type: 'POST',
+      url: "{% url 'login' %}",
+      data : {'login': JSON.stringify(login), 'password': JSON.stringify(password), 'csrfmiddlewaretoken': '{{csrf_token}}'}  ,
+      success : function(data) {      
+          switch (data) {
+              case "success":
+                  $('#form').append(success);
+                  window.setTimeout(function(){
+                    window.location.href = "/";
+                  }, 2000);
+                  break;
+              case "fail":
+                  $('#form').append(fail);
+                  break;
+          }
+      },
+    });
+  });
+});
+</script>
+
+<div class="card mb-4">
+        <h3 class="card-header"></h3>
+        <div class="card-body">
+          <h5 class="card-title"></h5>
+          <h6 class="card-subtitle text-muted"></h6>
+        </div>
+          <div class="media">
+            <div class="media-body">
+            </div>
+            
+          </div>
+        <div class="card-body">
+
+<div class="row justify-content-md-center">
+    <div class="col col-lg-1">
+      <div class="media">
+        <img src="{% static 'store/x3D87.png' %}" style="width:150px;height:150px;" class="rounded mr-2 float-left">
+      </div>
+    </div>
+    <div class="col-md-auto" id="form">
+    <form method="POST" id="input_form">
+        {% csrf_token %}
+        <div class="form-group">
+          <label class="col-form-label" for="inputDefault">Login</label>
+          <input type="text" class="form-control" id="inputLogin">
+        </div>    
+        <div class="form-group">
+          <label class="col-form-label" for="inputDefault">Password</label>
+          <input type="password" class="form-control" id="inputPassword">
+        </div>
+        <button  class="btn btn-primary btn-lg btn-block" id="login" type="button" name="commit">
+          Sing in
+        </button>
+    </form>
+    </div>
+    <div class="col col-lg-1">
+      <div class="media">
+        <img src="{% static 'store/x3D86.png' %}" style="width:150px;height:150px;" class="rounded mr-2 float-right">
+      </div>
+    </div>
+</div>
+</div>
+</div>
+
+{% endblock content %}
+
+
+

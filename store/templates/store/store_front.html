@@ -1,0 +1,61 @@
+{% extends "store/base.html" %}
+{% block content %}
+{% load humanize %}
+{% load static %}
+{% load filter_my %}
+
+  <div class="row">
+  	{% for k,v in context.items %}
+    <div class="col">
+			<div class="card mb-4">
+  			<h3 class="card-header">{{ k }}</h3>
+  			<div class="card-body">
+    			<h5 class="card-title">Special item loot</h5>
+    			<h6 class="card-subtitle text-muted">Support card subtitle</h6>
+  			</div>
+  			<div class="container">
+  	  			<div class="row">
+    			<div class="col-sm">
+    			</div>
+    			<div class="col-md-auto">
+      			<img style="height: auto; width: auto; border-radius: 8px;" src="{% static 'store/' %}{{ static_name|lookup:k }}">
+    			</div>
+    			<div class="col-sm">
+    			</div>
+  			</div>		  	
+  			</div>
+  			<div class="card-body">
+					<table class="table table-hover">
+  					<thead class="thead-dark">
+    					<tr>
+      					<th scope="col"></th>
+      					<th scope="col">Min price</th>
+      					<th scope="col">Max price</th>
+    					</tr>
+  					</thead>
+  					<tbody>
+  						{% for item in v %}
+    					<tr>
+      					<td><a href="{% url 'item_statistic' %}?item_name={{ item.item_name }}">{{ item.item_name }}</a></td>
+      					<td>{{ item.min | floatformat| intcomma }}</td>
+      					<td>{{ item.max | floatformat| intcomma }}</td>
+    					</tr>
+    					{% endfor %}
+  					</tbody>
+					</table>
+  			</div>
+  			<!--
+  			<div class="card-body">
+    			<a href="#" class="card-link">Card link</a>
+    			<a href="#" class="card-link">Another link</a>
+  			</div>
+  			-->
+  			<div class="card-footer text-muted">		    
+  			</div>
+			</div>
+	</div>
+	{% endfor %}
+</div>
+
+
+{% endblock content %}
