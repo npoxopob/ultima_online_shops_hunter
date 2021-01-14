@@ -27,9 +27,10 @@ class History(models.Model):
 
 
 class Results(models.Model):
-    vendor = models.ForeignKey(Vendor, on_delete=models.CASCADE, related_name='to_vendor', null=True)
-    mapping_categories = models.ForeignKey(Mapping, on_delete=models.SET_NULL, related_name='to_mapping_categories',
-                                           null=True)
+    vendor = models.ForeignKey(Vendor, on_delete=models.CASCADE,
+                               related_name='to_vendor', null=True)
+    mapping_categories = models.ForeignKey(Mapping, on_delete=models.SET_NULL,
+                                           related_name='to_mapping_categories', null=True)
     time_stamp = models.ForeignKey(History, on_delete=models.SET_NULL, null=True)
     item_name = models.CharField(max_length=255, null=True)
     item_description = models.CharField(max_length=255, null=True)

@@ -11,9 +11,6 @@ from store.models import Mapping
 from store.models import Categories
 from store.models import Vendor
 from store.models import Results
-from store.models import History
-from store.models import CurrentStatistic
-from store.models import CategoriesStatistic
 from store.models import ItemStatistic
 
 

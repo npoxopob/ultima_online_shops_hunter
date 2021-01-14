@@ -56,11 +56,11 @@ class Command(BaseCommand):
 
                 library_item, created = ItemsLibrary.objects.get_or_create(name=name)
                 if created:
-                    print("Created new item {0} in items library".format(name))
+                    print(f'Created new item {name} in items library')
                     library_item.save()
             except Exception as e:
                 print(e)
-                print("Error while creating record {0} in items library".format(name))
+                print(f'Error while creating record {name} in items library')
                 return 1
 
         items_from_library = ItemsLibrary.objects.all()
@@ -105,11 +105,10 @@ class Command(BaseCommand):
                 )
                 if created:
                     stat_item.save()
-                    print("Created statistic for item {0} {1}".format(item.name, {'max': stat_item.max_price,
-                                                                                  'min': stat_item.min_price}))
+                    min_max_price = {"max": stat_item.max_price, "min": stat_item.min_price}
+                    print(f'Created statistic for item {item.name} {min_max_price}')
             except Exception as e:
-                print("Error while statistic for item {0} {1}".format(item.name, {'max': stat_item.max_price,
-                                                                                  'min': stat_item.min_price}))
+                print(f'Error while statistic for item {item.name}')
                 print(e)
 
     def read_date(self):
@@ -126,7 +125,7 @@ class Command(BaseCommand):
                         return date
                     except Exception as e:
                         print(Exception, e)
-                        print("From file:{0}".format(v))
+                        print(f'From file:{v}')
                         return 1
 
     def update_categories_mapping(self):
@@ -139,7 +138,7 @@ class Command(BaseCommand):
                         obj, created = Categories.objects.get_or_create(name=v[3])
                         if created:
                             obj.save()
-                            print('Updated  categories record {0}'.format(v))
+                            print(f'Updated  categories record {v}')
                     except Exception as e:
                         print(e)
                         print('Error while updating categories records ', v[0])
@@ -153,7 +152,7 @@ class Command(BaseCommand):
                             item_name=v[4],
                         )
                         if created:
-                            print('Updated mapping record {0}'.format(v))
+                            print(f'Updated mapping record {v}')
                             obj.save()
                     except Exception as e:
                         print(e)
@@ -187,7 +186,7 @@ class Command(BaseCommand):
                             }
                         )
                         if created:
-                            print('Creating new Vendor shop: {0} X:{1} Y:{2}'.format(v[2], v[3], v[4]))
+                            print(f'Creating new Vendor shop: {v[2]} X:{v[3]} Y:{v[4]}')
                             vendor.save()
                     except Exception as e:
                         print(e)
@@ -204,7 +203,7 @@ class Command(BaseCommand):
                             vendor_update.save()
                         except Exception as e:
                             print(e)
-                            print('Error while updating vendor_name {0}'.format(v[2]))
+                            print(f'Error while updating vendor_name {v[2]}')
                             return 1
 
                     try:
@@ -225,7 +224,7 @@ class Command(BaseCommand):
                                 item_total_price=v[8]
                             )
                             result.save()
-                            print('Created item {0}'.format(result.item_name))
+                            print(f'Created item {result.item_name}')
                         except Exception as e:
                             print(e)
                             print(f'Error while creating results records {v}')
