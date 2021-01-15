@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 Type=simple
-ExecStart=/usr/bin/python3.6 /opt/ultima_online_shops_hunter/manage.py runserver 10.128.152.88:2593
+ExecStart=/usr/bin/python3.6 /opt/ultima_online_shops_hunter/manage.py runserver 127.0.0.1
 Restart=on-failure
 RestartSec=5s
 StandardOutput=file:/tmp/web_ultima.log
