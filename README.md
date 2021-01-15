@@ -10,7 +10,7 @@ not all Ultima Online shards allow to use this application.
 
 This project was made for [UO Outlands](https://uooutlands.com/) shard
 ### How to upload data to database
-If you have same data-format like in result.csv and mapping.csv, you can upload it from 
+If you have same data-format like in result.csv and mapping.csv, you can upload data to database with 
 managment command
 ```bash
 $ python manage.py update_db
