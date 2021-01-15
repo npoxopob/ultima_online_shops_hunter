@@ -9,7 +9,12 @@ data from game. The best way to get data from game is use [Stealth Client](https
 not all Ultima Online shards allow to use this application.
 
 This project was made for [UO Outlands](https://uooutlands.com/) shard
-
+### How to upload data to database
+If you have same data-format like in result.csv and mapping.csv, you can upload it from 
+managment command
+```bash
+$ python manage.py update_db
+```
 ### How it's look like
 
 #### Dasboard
